@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T12:47:47+00:00",
+  "generatedAt": "2026-07-01T21:56:27+00:00",
   "nSims": 10000,
   "seed": 26,
   "kBase": 50,
@@ -26,10 +26,10 @@
       "eloCode": "FR",
       "elo": 2177.7,
       "probR16": 1.0,
-      "probQF": 0.8903,
-      "probSF": 0.7462,
-      "probFinal": 0.4984,
-      "probChampion": 0.3243
+      "probQF": 0.8867,
+      "probSF": 0.7469,
+      "probFinal": 0.4957,
+      "probChampion": 0.3275
     },
     {
       "id": 762,
@@ -39,11 +39,11 @@
       "crest": "https://crests.football-data.org/762.png",
       "eloCode": "AR",
       "elo": 2171.4,
-      "probR16": 0.9549,
-      "probQF": 0.8646,
-      "probSF": 0.6548,
-      "probFinal": 0.4887,
-      "probChampion": 0.2679
+      "probR16": 0.9497,
+      "probQF": 0.8564,
+      "probSF": 0.6506,
+      "probFinal": 0.4759,
+      "probChampion": 0.2567
     },
     {
       "id": 760,
@@ -53,11 +53,11 @@
       "crest": "https://crests.football-data.org/760.svg",
       "eloCode": "ES",
       "elo": 2133.2,
-      "probR16": 0.8449,
-      "probQF": 0.6202,
-      "probSF": 0.3995,
-      "probFinal": 0.2112,
-      "probChampion": 0.1216
+      "probR16": 0.8462,
+      "probQF": 0.6245,
+      "probSF": 0.4149,
+      "probFinal": 0.2168,
+      "probChampion": 0.1217
     },
     {
       "id": 770,
@@ -66,12 +66,12 @@
       "tla": "ENG",
       "crest": "https://crests.football-data.org/770.svg",
       "eloCode": "EN",
-      "elo": 2046.2,
-      "probR16": 0.8453,
-      "probQF": 0.4733,
-      "probSF": 0.3555,
-      "probFinal": 0.1553,
-      "probChampion": 0.0618
+      "elo": 2053.8,
+      "probR16": 1.0,
+      "probQF": 0.574,
+      "probSF": 0.4441,
+      "probFinal": 0.1937,
+      "probChampion": 0.0795
     },
     {
       "id": 764,
@@ -82,10 +82,10 @@
       "eloCode": "BR",
       "elo": 2054.7,
       "probR16": 1.0,
-      "probQF": 0.6502,
-      "probSF": 0.3133,
-      "probFinal": 0.1321,
-      "probChampion": 0.0608
+      "probQF": 0.6412,
+      "probSF": 0.3063,
+      "probFinal": 0.1286,
+      "probChampion": 0.062
     },
     {
       "id": 818,
@@ -95,11 +95,11 @@
       "crest": "https://crests.football-data.org/818.svg",
       "eloCode": "CO",
       "elo": 2017.5,
-      "probR16": 0.9078,
-      "probQF": 0.6208,
-      "probSF": 0.225,
-      "probFinal": 0.1293,
-      "probChampion": 0.048
+      "probR16": 0.9094,
+      "probQF": 0.6204,
+      "probSF": 0.2203,
+      "probFinal": 0.1229,
+      "probChampion": 0.0456
     },
     {
       "id": 769,
@@ -110,10 +110,10 @@
       "eloCode": "MX",
       "elo": 1999.1,
       "probR16": 1.0,
-      "probQF": 0.4983,
-      "probSF": 0.3575,
-      "probFinal": 0.1254,
-      "probChampion": 0.0427
+      "probQF": 0.426,
+      "probSF": 0.3083,
+      "probFinal": 0.1107,
+      "probChampion": 0.037
     },
     {
       "id": 815,
@@ -124,10 +124,24 @@
       "eloCode": "MA",
       "elo": 1923.0,
       "probR16": 1.0,
-      "probQF": 0.7162,
-      "probSF": 0.1733,
-      "probFinal": 0.0532,
-      "probChampion": 0.0166
+      "probQF": 0.7032,
+      "probSF": 0.1716,
+      "probFinal": 0.0553,
+      "probChampion": 0.0164
+    },
+    {
+      "id": 765,
+      "name": "Portugal",
+      "shortName": "Portugal",
+      "tla": "POR",
+      "crest": "https://crests.football-data.org/765.svg",
+      "eloCode": "PT",
+      "elo": 1987.7,
+      "probR16": 0.6262,
+      "probQF": 0.2244,
+      "probSF": 0.1031,
+      "probFinal": 0.0369,
+      "probChampion": 0.0149
     },
     {
       "id": 8872,
@@ -138,24 +152,10 @@
       "eloCode": "NO",
       "elo": 1951.3,
       "probR16": 1.0,
-      "probQF": 0.3498,
-      "probSF": 0.1301,
-      "probFinal": 0.041,
-      "probChampion": 0.014
-    },
-    {
-      "id": 765,
-      "name": "Portugal",
-      "shortName": "Portugal",
-      "tla": "POR",
-      "crest": "https://crests.football-data.org/765.svg",
-      "eloCode": "PT",
-      "elo": 1987.7,
-      "probR16": 0.6328,
-      "probQF": 0.2305,
-      "probSF": 0.1076,
-      "probFinal": 0.0379,
-      "probChampion": 0.014
+      "probQF": 0.3588,
+      "probSF": 0.126,
+      "probFinal": 0.0402,
+      "probChampion": 0.0139
     },
     {
       "id": 788,
@@ -165,11 +165,11 @@
       "crest": "https://crests.football-data.org/788.svg",
       "eloCode": "CH",
       "elo": 1923.1,
-      "probR16": 0.6802,
-      "probQF": 0.279,
-      "probSF": 0.0714,
-      "probFinal": 0.0299,
-      "probChampion": 0.008
+      "probR16": 0.6856,
+      "probQF": 0.2821,
+      "probSF": 0.0779,
+      "probFinal": 0.0333,
+      "probChampion": 0.0077
     },
     {
       "id": 805,
@@ -179,11 +179,11 @@
       "crest": "https://crests.football-data.org/805.svg",
       "eloCode": "BE",
       "elo": 1877.6,
-      "probR16": 0.5666,
-      "probQF": 0.3494,
-      "probSF": 0.1142,
-      "probFinal": 0.0279,
-      "probChampion": 0.0074
+      "probR16": 0.5702,
+      "probQF": 0.3515,
+      "probSF": 0.1042,
+      "probFinal": 0.0241,
+      "probChampion": 0.005
     },
     {
       "id": 771,
@@ -193,11 +193,11 @@
       "crest": "https://crests.football-data.org/usa.svg",
       "eloCode": "US",
       "elo": 1837.8,
-      "probR16": 0.7669,
-      "probQF": 0.3794,
-      "probSF": 0.0996,
-      "probFinal": 0.0194,
-      "probChampion": 0.0039
+      "probR16": 0.7603,
+      "probQF": 0.3788,
+      "probSF": 0.0862,
+      "probFinal": 0.0174,
+      "probChampion": 0.0043
     },
     {
       "id": 799,
@@ -207,11 +207,11 @@
       "crest": "https://crests.football-data.org/799.svg",
       "eloCode": "HR",
       "elo": 1899.6,
-      "probR16": 0.3672,
-      "probQF": 0.0969,
-      "probSF": 0.0351,
-      "probFinal": 0.0095,
-      "probChampion": 0.0028
+      "probR16": 0.3738,
+      "probQF": 0.0977,
+      "probSF": 0.0337,
+      "probFinal": 0.0079,
+      "probChampion": 0.0021
     },
     {
       "id": 804,
@@ -221,11 +221,11 @@
       "crest": "https://crests.football-data.org/senegal.svg",
       "eloCode": "SN",
       "elo": 1831.0,
-      "probR16": 0.4334,
-      "probQF": 0.223,
-      "probSF": 0.0577,
-      "probFinal": 0.0111,
-      "probChampion": 0.002
+      "probR16": 0.4298,
+      "probQF": 0.2187,
+      "probSF": 0.0527,
+      "probFinal": 0.0104,
+      "probChampion": 0.0019
     },
     {
       "id": 761,
@@ -236,24 +236,10 @@
       "eloCode": "PY",
       "elo": 1808.3,
       "probR16": 1.0,
-      "probQF": 0.1097,
-      "probSF": 0.0439,
-      "probFinal": 0.008,
-      "probChampion": 0.0016
-    },
-    {
-      "id": 779,
-      "name": "Australia",
-      "shortName": "Australia",
-      "tla": "AUS",
-      "crest": "https://crests.football-data.org/779.svg",
-      "eloCode": "AU",
-      "elo": 1804.0,
-      "probR16": 0.5447,
-      "probQF": 0.0691,
-      "probSF": 0.0201,
-      "probFinal": 0.0052,
-      "probChampion": 0.001
+      "probQF": 0.1133,
+      "probSF": 0.0447,
+      "probFinal": 0.0092,
+      "probChampion": 0.0009
     },
     {
       "id": 828,
@@ -264,24 +250,24 @@
       "eloCode": "CA",
       "elo": 1767.6,
       "probR16": 1.0,
-      "probQF": 0.2838,
-      "probSF": 0.0366,
-      "probFinal": 0.0055,
-      "probChampion": 0.0007
+      "probQF": 0.2968,
+      "probSF": 0.0368,
+      "probFinal": 0.0063,
+      "probChampion": 0.0009
     },
     {
-      "id": 825,
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "tla": "EGY",
-      "crest": "https://crests.football-data.org/825.svg",
-      "eloCode": "EG",
-      "elo": 1768.6,
-      "probR16": 0.4553,
-      "probQF": 0.0511,
-      "probSF": 0.0143,
-      "probFinal": 0.0025,
-      "probChampion": 0.0003
+      "id": 779,
+      "name": "Australia",
+      "shortName": "Australia",
+      "tla": "AUS",
+      "crest": "https://crests.football-data.org/779.svg",
+      "eloCode": "AU",
+      "elo": 1804.0,
+      "probR16": 0.5502,
+      "probQF": 0.075,
+      "probSF": 0.0215,
+      "probFinal": 0.0054,
+      "probChampion": 0.0009
     },
     {
       "id": 816,
@@ -291,24 +277,24 @@
       "crest": "https://crests.football-data.org/816.svg",
       "eloCode": "AT",
       "elo": 1838.5,
-      "probR16": 0.1551,
-      "probQF": 0.0524,
-      "probSF": 0.0144,
-      "probFinal": 0.0032,
-      "probChampion": 0.0003
+      "probR16": 0.1538,
+      "probQF": 0.0534,
+      "probSF": 0.016,
+      "probFinal": 0.0031,
+      "probChampion": 0.0009
     },
     {
-      "id": 1934,
-      "name": "Congo DR",
-      "shortName": "Congo DR",
-      "tla": "COD",
-      "crest": "https://crests.football-data.org/congo_dr.svg",
-      "eloCode": "CD",
-      "elo": 1746.5,
-      "probR16": 0.1547,
-      "probQF": 0.0284,
-      "probSF": 0.0109,
-      "probFinal": 0.0014,
+      "id": 825,
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "tla": "EGY",
+      "crest": "https://crests.football-data.org/825.svg",
+      "eloCode": "EG",
+      "elo": 1768.6,
+      "probR16": 0.4498,
+      "probQF": 0.0532,
+      "probSF": 0.0137,
+      "probFinal": 0.0032,
       "probChampion": 0.0002
     },
     {
@@ -319,11 +305,11 @@
       "crest": "https://crests.football-data.org/algeria.svg",
       "eloCode": "DZ",
       "elo": 1793.1,
-      "probR16": 0.3198,
-      "probQF": 0.0827,
-      "probSF": 0.0106,
-      "probFinal": 0.0028,
-      "probChampion": 0.0001
+      "probR16": 0.3144,
+      "probQF": 0.0798,
+      "probSF": 0.0123,
+      "probFinal": 0.0024,
+      "probChampion": 0.0
     },
     {
       "id": 1060,
@@ -333,10 +319,10 @@
       "crest": "https://crests.football-data.org/bosnia.svg",
       "eloCode": "BA",
       "elo": 1633.9,
-      "probR16": 0.2331,
-      "probQF": 0.0482,
-      "probSF": 0.0046,
-      "probFinal": 0.0007,
+      "probR16": 0.2397,
+      "probQF": 0.051,
+      "probSF": 0.0045,
+      "probFinal": 0.0001,
       "probChampion": 0.0
     },
     {
@@ -347,10 +333,10 @@
       "crest": "https://crests.football-data.org/cape_verde.svg",
       "eloCode": "CV",
       "elo": 1653.0,
-      "probR16": 0.0451,
-      "probQF": 0.0152,
-      "probSF": 0.0024,
-      "probFinal": 0.0001,
+      "probR16": 0.0503,
+      "probQF": 0.0154,
+      "probSF": 0.0027,
+      "probFinal": 0.0003,
       "probChampion": 0.0
     },
     {
@@ -361,10 +347,10 @@
       "crest": "https://crests.football-data.org/ghana.svg",
       "eloCode": "GH",
       "elo": 1618.5,
-      "probR16": 0.0922,
-      "probQF": 0.0175,
-      "probSF": 0.0014,
-      "probFinal": 0.0003,
+      "probR16": 0.0906,
+      "probQF": 0.0177,
+      "probSF": 0.001,
+      "probFinal": 0.0002,
       "probChampion": 0.0
     },
     {
@@ -375,6 +361,20 @@
       "crest": "https://crests.football-data.org/9396.svg",
       "eloCode": "ZA",
       "elo": 1581.2,
+      "probR16": 0.0,
+      "probQF": 0.0,
+      "probSF": 0.0,
+      "probFinal": 0.0,
+      "probChampion": 0.0
+    },
+    {
+      "id": 1934,
+      "name": "Congo DR",
+      "shortName": "Congo DR",
+      "tla": "COD",
+      "crest": "https://crests.football-data.org/congo_dr.svg",
+      "eloCode": "CD",
+      "elo": 1738.9,
       "probR16": 0.0,
       "probQF": 0.0,
       "probSF": 0.0,

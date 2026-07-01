@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T12:33:01+00:00",
+  "generatedAt": "2026-07-01T21:56:26+00:00",
   "source": "football-data.org /v4/competitions/WC/matches",
   "competition": {
     "id": 2000,
@@ -12,7 +12,7 @@
     "count": 104,
     "first": "2026-06-11",
     "last": "2026-07-19",
-    "played": 79
+    "played": 80
   },
   "stages": [
     {
@@ -239,7 +239,7 @@
         {
           "id": 537422,
           "stage": "LAST_32",
-          "status": "TIMED",
+          "status": "IN_PLAY",
           "played": false,
           "utcDate": "2026-07-01T20:00:00Z",
           "home": {
@@ -257,10 +257,10 @@
             "crest": "https://crests.football-data.org/senegal.svg"
           },
           "score": {
-            "home": null,
-            "away": null,
+            "home": 2,
+            "away": 2,
             "duration": "REGULAR",
-            "winner": null
+            "winner": "DRAW"
           },
           "winnerId": null,
           "slot": 7,
@@ -363,8 +363,8 @@
         {
           "id": 537426,
           "stage": "LAST_32",
-          "status": "TIMED",
-          "played": false,
+          "status": "FINISHED",
+          "played": true,
           "utcDate": "2026-07-01T16:00:00Z",
           "home": {
             "id": 770,
@@ -381,12 +381,12 @@
             "crest": "https://crests.football-data.org/congo_dr.svg"
           },
           "score": {
-            "home": null,
-            "away": null,
+            "home": 2,
+            "away": 1,
             "duration": "REGULAR",
-            "winner": null
+            "winner": "HOME_TEAM"
           },
-          "winnerId": null,
+          "winnerId": 770,
           "slot": 11,
           "homeParent": null,
           "awayParent": null
