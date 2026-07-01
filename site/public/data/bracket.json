@@ -1,0 +1,952 @@
+{
+  "generatedAt": "2026-07-01T12:33:01+00:00",
+  "source": "football-data.org /v4/competitions/WC/matches",
+  "competition": {
+    "id": 2000,
+    "name": "FIFA World Cup",
+    "code": "WC",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/wm26.png"
+  },
+  "resultSet": {
+    "count": 104,
+    "first": "2026-06-11",
+    "last": "2026-07-19",
+    "played": 79
+  },
+  "stages": [
+    {
+      "code": "LAST_32",
+      "label": "Round of 32",
+      "matches": [
+        {
+          "id": 537415,
+          "stage": "LAST_32",
+          "status": "FINISHED",
+          "played": true,
+          "utcDate": "2026-06-29T20:30:00Z",
+          "home": {
+            "id": 759,
+            "name": "Germany",
+            "shortName": "Germany",
+            "tla": "GER",
+            "crest": "https://crests.football-data.org/759.svg"
+          },
+          "away": {
+            "id": 761,
+            "name": "Paraguay",
+            "shortName": "Paraguay",
+            "tla": "PAR",
+            "crest": "https://crests.football-data.org/761.svg"
+          },
+          "score": {
+            "home": 4,
+            "away": 5,
+            "duration": "PENALTY_SHOOTOUT",
+            "winner": "AWAY_TEAM"
+          },
+          "winnerId": 761,
+          "slot": 0,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537416,
+          "stage": "LAST_32",
+          "status": "FINISHED",
+          "played": true,
+          "utcDate": "2026-06-30T21:00:00Z",
+          "home": {
+            "id": 773,
+            "name": "France",
+            "shortName": "France",
+            "tla": "FRA",
+            "crest": "https://crests.football-data.org/773.svg"
+          },
+          "away": {
+            "id": 792,
+            "name": "Sweden",
+            "shortName": "Sweden",
+            "tla": "SWE",
+            "crest": "https://crests.football-data.org/792.svg"
+          },
+          "score": {
+            "home": 3,
+            "away": 0,
+            "duration": "REGULAR",
+            "winner": "HOME_TEAM"
+          },
+          "winnerId": 773,
+          "slot": 1,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537417,
+          "stage": "LAST_32",
+          "status": "FINISHED",
+          "played": true,
+          "utcDate": "2026-06-28T19:00:00Z",
+          "home": {
+            "id": 774,
+            "name": "South Africa",
+            "shortName": "South Africa",
+            "tla": "RSA",
+            "crest": "https://crests.football-data.org/9396.svg"
+          },
+          "away": {
+            "id": 828,
+            "name": "Canada",
+            "shortName": "Canada",
+            "tla": "CAN",
+            "crest": "https://crests.football-data.org/canada.svg"
+          },
+          "score": {
+            "home": 0,
+            "away": 1,
+            "duration": "REGULAR",
+            "winner": "AWAY_TEAM"
+          },
+          "winnerId": 828,
+          "slot": 2,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537418,
+          "stage": "LAST_32",
+          "status": "FINISHED",
+          "played": true,
+          "utcDate": "2026-06-30T01:00:00Z",
+          "home": {
+            "id": 8601,
+            "name": "Netherlands",
+            "shortName": "Netherlands",
+            "tla": "NED",
+            "crest": "https://crests.football-data.org/8601.svg"
+          },
+          "away": {
+            "id": 815,
+            "name": "Morocco",
+            "shortName": "Morocco",
+            "tla": "MAR",
+            "crest": "https://crests.football-data.org/morocco.svg"
+          },
+          "score": {
+            "home": 3,
+            "away": 4,
+            "duration": "PENALTY_SHOOTOUT",
+            "winner": "AWAY_TEAM"
+          },
+          "winnerId": 815,
+          "slot": 3,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537419,
+          "stage": "LAST_32",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-02T23:00:00Z",
+          "home": {
+            "id": 765,
+            "name": "Portugal",
+            "shortName": "Portugal",
+            "tla": "POR",
+            "crest": "https://crests.football-data.org/765.svg"
+          },
+          "away": {
+            "id": 799,
+            "name": "Croatia",
+            "shortName": "Croatia",
+            "tla": "CRO",
+            "crest": "https://crests.football-data.org/799.svg"
+          },
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 4,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537420,
+          "stage": "LAST_32",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-02T19:00:00Z",
+          "home": {
+            "id": 760,
+            "name": "Spain",
+            "shortName": "Spain",
+            "tla": "ESP",
+            "crest": "https://crests.football-data.org/760.svg"
+          },
+          "away": {
+            "id": 816,
+            "name": "Austria",
+            "shortName": "Austria",
+            "tla": "AUT",
+            "crest": "https://crests.football-data.org/816.svg"
+          },
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 5,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537421,
+          "stage": "LAST_32",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-02T00:00:00Z",
+          "home": {
+            "id": 771,
+            "name": "United States",
+            "shortName": "USA",
+            "tla": "USA",
+            "crest": "https://crests.football-data.org/usa.svg"
+          },
+          "away": {
+            "id": 1060,
+            "name": "Bosnia-Herzegovina",
+            "shortName": "Bosnia-H.",
+            "tla": "BIH",
+            "crest": "https://crests.football-data.org/bosnia.svg"
+          },
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 6,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537422,
+          "stage": "LAST_32",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-01T20:00:00Z",
+          "home": {
+            "id": 805,
+            "name": "Belgium",
+            "shortName": "Belgium",
+            "tla": "BEL",
+            "crest": "https://crests.football-data.org/805.svg"
+          },
+          "away": {
+            "id": 804,
+            "name": "Senegal",
+            "shortName": "Senegal",
+            "tla": "SEN",
+            "crest": "https://crests.football-data.org/senegal.svg"
+          },
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 7,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537423,
+          "stage": "LAST_32",
+          "status": "FINISHED",
+          "played": true,
+          "utcDate": "2026-06-29T17:00:00Z",
+          "home": {
+            "id": 764,
+            "name": "Brazil",
+            "shortName": "Brazil",
+            "tla": "BRA",
+            "crest": "https://crests.football-data.org/764.svg"
+          },
+          "away": {
+            "id": 766,
+            "name": "Japan",
+            "shortName": "Japan",
+            "tla": "JPN",
+            "crest": "https://crests.football-data.org/766.svg"
+          },
+          "score": {
+            "home": 2,
+            "away": 1,
+            "duration": "REGULAR",
+            "winner": "HOME_TEAM"
+          },
+          "winnerId": 764,
+          "slot": 8,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537424,
+          "stage": "LAST_32",
+          "status": "FINISHED",
+          "played": true,
+          "utcDate": "2026-06-30T17:00:00Z",
+          "home": {
+            "id": 1935,
+            "name": "Ivory Coast",
+            "shortName": "Ivory Coast",
+            "tla": "CIV",
+            "crest": "https://crests.football-data.org/787.svg"
+          },
+          "away": {
+            "id": 8872,
+            "name": "Norway",
+            "shortName": "Norway",
+            "tla": "NOR",
+            "crest": "https://crests.football-data.org/813.svg"
+          },
+          "score": {
+            "home": 1,
+            "away": 2,
+            "duration": "REGULAR",
+            "winner": "AWAY_TEAM"
+          },
+          "winnerId": 8872,
+          "slot": 9,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537425,
+          "stage": "LAST_32",
+          "status": "FINISHED",
+          "played": true,
+          "utcDate": "2026-07-01T01:00:00Z",
+          "home": {
+            "id": 769,
+            "name": "Mexico",
+            "shortName": "Mexico",
+            "tla": "MEX",
+            "crest": "https://crests.football-data.org/769.svg"
+          },
+          "away": {
+            "id": 791,
+            "name": "Ecuador",
+            "shortName": "Ecuador",
+            "tla": "ECU",
+            "crest": "https://crests.football-data.org/791.svg"
+          },
+          "score": {
+            "home": 2,
+            "away": 0,
+            "duration": "REGULAR",
+            "winner": "HOME_TEAM"
+          },
+          "winnerId": 769,
+          "slot": 10,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537426,
+          "stage": "LAST_32",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-01T16:00:00Z",
+          "home": {
+            "id": 770,
+            "name": "England",
+            "shortName": "England",
+            "tla": "ENG",
+            "crest": "https://crests.football-data.org/770.svg"
+          },
+          "away": {
+            "id": 1934,
+            "name": "Congo DR",
+            "shortName": "Congo DR",
+            "tla": "COD",
+            "crest": "https://crests.football-data.org/congo_dr.svg"
+          },
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 11,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537427,
+          "stage": "LAST_32",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-03T22:00:00Z",
+          "home": {
+            "id": 762,
+            "name": "Argentina",
+            "shortName": "Argentina",
+            "tla": "ARG",
+            "crest": "https://crests.football-data.org/762.png"
+          },
+          "away": {
+            "id": 1930,
+            "name": "Cape Verde Islands",
+            "shortName": "Cape Verde",
+            "tla": "CPV",
+            "crest": "https://crests.football-data.org/cape_verde.svg"
+          },
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 12,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537428,
+          "stage": "LAST_32",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-03T18:00:00Z",
+          "home": {
+            "id": 779,
+            "name": "Australia",
+            "shortName": "Australia",
+            "tla": "AUS",
+            "crest": "https://crests.football-data.org/779.svg"
+          },
+          "away": {
+            "id": 825,
+            "name": "Egypt",
+            "shortName": "Egypt",
+            "tla": "EGY",
+            "crest": "https://crests.football-data.org/825.svg"
+          },
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 13,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537429,
+          "stage": "LAST_32",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-03T03:00:00Z",
+          "home": {
+            "id": 788,
+            "name": "Switzerland",
+            "shortName": "Switzerland",
+            "tla": "SUI",
+            "crest": "https://crests.football-data.org/788.svg"
+          },
+          "away": {
+            "id": 778,
+            "name": "Algeria",
+            "shortName": "Algeria",
+            "tla": "ALG",
+            "crest": "https://crests.football-data.org/algeria.svg"
+          },
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 14,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537430,
+          "stage": "LAST_32",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-04T01:30:00Z",
+          "home": {
+            "id": 818,
+            "name": "Colombia",
+            "shortName": "Colombia",
+            "tla": "COL",
+            "crest": "https://crests.football-data.org/818.svg"
+          },
+          "away": {
+            "id": 763,
+            "name": "Ghana",
+            "shortName": "Ghana",
+            "tla": "GHA",
+            "crest": "https://crests.football-data.org/ghana.svg"
+          },
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 15,
+          "homeParent": null,
+          "awayParent": null
+        }
+      ]
+    },
+    {
+      "code": "LAST_16",
+      "label": "Round of 16",
+      "matches": [
+        {
+          "id": 537375,
+          "stage": "LAST_16",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-04T21:00:00Z",
+          "home": {
+            "id": 761,
+            "name": "Paraguay",
+            "shortName": "Paraguay",
+            "tla": "PAR",
+            "crest": "https://crests.football-data.org/761.svg"
+          },
+          "away": {
+            "id": 773,
+            "name": "France",
+            "shortName": "France",
+            "tla": "FRA",
+            "crest": "https://crests.football-data.org/773.svg"
+          },
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 0,
+          "homeParent": {
+            "id": 537415,
+            "slot": 0
+          },
+          "awayParent": {
+            "id": 537416,
+            "slot": 1
+          }
+        },
+        {
+          "id": 537376,
+          "stage": "LAST_16",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-04T17:00:00Z",
+          "home": {
+            "id": 828,
+            "name": "Canada",
+            "shortName": "Canada",
+            "tla": "CAN",
+            "crest": "https://crests.football-data.org/canada.svg"
+          },
+          "away": {
+            "id": 815,
+            "name": "Morocco",
+            "shortName": "Morocco",
+            "tla": "MAR",
+            "crest": "https://crests.football-data.org/morocco.svg"
+          },
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 1,
+          "homeParent": {
+            "id": 537417,
+            "slot": 2
+          },
+          "awayParent": {
+            "id": 537418,
+            "slot": 3
+          }
+        },
+        {
+          "id": 537377,
+          "stage": "LAST_16",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-05T20:00:00Z",
+          "home": {
+            "id": 764,
+            "name": "Brazil",
+            "shortName": "Brazil",
+            "tla": "BRA",
+            "crest": "https://crests.football-data.org/764.svg"
+          },
+          "away": {
+            "id": 8872,
+            "name": "Norway",
+            "shortName": "Norway",
+            "tla": "NOR",
+            "crest": "https://crests.football-data.org/813.svg"
+          },
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 2,
+          "homeParent": {
+            "id": 537423,
+            "slot": 8
+          },
+          "awayParent": {
+            "id": 537424,
+            "slot": 9
+          }
+        },
+        {
+          "id": 537378,
+          "stage": "LAST_16",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-06T00:00:00Z",
+          "home": null,
+          "away": null,
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 3,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537379,
+          "stage": "LAST_16",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-06T19:00:00Z",
+          "home": null,
+          "away": null,
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 4,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537380,
+          "stage": "LAST_16",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-07T00:00:00Z",
+          "home": null,
+          "away": null,
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 5,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537381,
+          "stage": "LAST_16",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-07T16:00:00Z",
+          "home": null,
+          "away": null,
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 6,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537382,
+          "stage": "LAST_16",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-07T20:00:00Z",
+          "home": null,
+          "away": null,
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 7,
+          "homeParent": null,
+          "awayParent": null
+        }
+      ]
+    },
+    {
+      "code": "QUARTER_FINALS",
+      "label": "Quarter-finals",
+      "matches": [
+        {
+          "id": 537383,
+          "stage": "QUARTER_FINALS",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-09T20:00:00Z",
+          "home": null,
+          "away": null,
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 0,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537384,
+          "stage": "QUARTER_FINALS",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-10T19:00:00Z",
+          "home": null,
+          "away": null,
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 1,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537385,
+          "stage": "QUARTER_FINALS",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-11T21:00:00Z",
+          "home": null,
+          "away": null,
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 2,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537386,
+          "stage": "QUARTER_FINALS",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-12T01:00:00Z",
+          "home": null,
+          "away": null,
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 3,
+          "homeParent": null,
+          "awayParent": null
+        }
+      ]
+    },
+    {
+      "code": "SEMI_FINALS",
+      "label": "Semi-finals",
+      "matches": [
+        {
+          "id": 537387,
+          "stage": "SEMI_FINALS",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-14T19:00:00Z",
+          "home": null,
+          "away": null,
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 0,
+          "homeParent": null,
+          "awayParent": null
+        },
+        {
+          "id": 537388,
+          "stage": "SEMI_FINALS",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-15T19:00:00Z",
+          "home": null,
+          "away": null,
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 1,
+          "homeParent": null,
+          "awayParent": null
+        }
+      ]
+    },
+    {
+      "code": "THIRD_PLACE",
+      "label": "Third place",
+      "matches": [
+        {
+          "id": 537389,
+          "stage": "THIRD_PLACE",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-18T21:00:00Z",
+          "home": null,
+          "away": null,
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 0,
+          "homeParent": null,
+          "awayParent": null
+        }
+      ]
+    },
+    {
+      "code": "FINAL",
+      "label": "Final",
+      "matches": [
+        {
+          "id": 537390,
+          "stage": "FINAL",
+          "status": "TIMED",
+          "played": false,
+          "utcDate": "2026-07-19T19:00:00Z",
+          "home": null,
+          "away": null,
+          "score": {
+            "home": null,
+            "away": null,
+            "duration": "REGULAR",
+            "winner": null
+          },
+          "winnerId": null,
+          "slot": 0,
+          "homeParent": null,
+          "awayParent": null
+        }
+      ]
+    }
+  ],
+  "pinnedDefault": 764,
+  "pinnedPath": [
+    {
+      "stage": "LAST_32",
+      "matchId": 537423,
+      "utcDate": "2026-06-29T17:00:00Z",
+      "opponent": {
+        "id": 766,
+        "name": "Japan",
+        "shortName": "Japan",
+        "tla": "JPN",
+        "crest": "https://crests.football-data.org/766.svg"
+      },
+      "played": true,
+      "won": true,
+      "score": {
+        "home": 2,
+        "away": 1,
+        "duration": "REGULAR",
+        "winner": "HOME_TEAM"
+      }
+    },
+    {
+      "stage": "LAST_16",
+      "matchId": 537377,
+      "utcDate": "2026-07-05T20:00:00Z",
+      "opponent": {
+        "id": 8872,
+        "name": "Norway",
+        "shortName": "Norway",
+        "tla": "NOR",
+        "crest": "https://crests.football-data.org/813.svg"
+      },
+      "played": false,
+      "won": false,
+      "score": {
+        "home": null,
+        "away": null,
+        "duration": "REGULAR",
+        "winner": null
+      }
+    }
+  ]
+}

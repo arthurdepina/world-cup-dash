@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-07-01T12:51:00+00:00",
+  "source": "StatsBomb open data (WC 2022, Brazil)",
+  "matches": [
+    {
+      "matchId": 3857258,
+      "date": "2022-11-24",
+      "stage": "Group Stage",
+      "opponent": "Serbia",
+      "score": {
+        "brazil": 2,
+        "opponent": 0
+      },
+      "shots": 23,
+      "xg": 2.124,
+      "goals": 2,
+      "image": "img/br_2022_3857258.png"
+    },
+    {
+      "matchId": 3857269,
+      "date": "2022-11-28",
+      "stage": "Group Stage",
+      "opponent": "Switzerland",
+      "score": {
+        "brazil": 1,
+        "opponent": 0
+      },
+      "shots": 13,
+      "xg": 0.923,
+      "goals": 1,
+      "image": "img/br_2022_3857269.png"
+    },
+    {
+      "matchId": 3857280,
+      "date": "2022-12-02",
+      "stage": "Group Stage",
+      "opponent": "Cameroon",
+      "score": {
+        "brazil": 0,
+        "opponent": 1
+      },
+      "shots": 21,
+      "xg": 2.378,
+      "goals": 0,
+      "image": "img/br_2022_3857280.png"
+    },
+    {
+      "matchId": 3869253,
+      "date": "2022-12-05",
+      "stage": "Round of 16",
+      "opponent": "South Korea",
+      "score": {
+        "brazil": 4,
+        "opponent": 1
+      },
+      "shots": 18,
+      "xg": 3.261,
+      "goals": 4,
+      "image": "img/br_2022_3869253.png"
+    },
+    {
+      "matchId": 3869420,
+      "date": "2022-12-09",
+      "stage": "Quarter-finals",
+      "opponent": "Croatia",
+      "score": {
+        "brazil": 1,
+        "opponent": 1
+      },
+      "shots": 20,
+      "xg": 1.816,
+      "goals": 1,
+      "image": "img/br_2022_3869420.png"
+    }
+  ]
+}

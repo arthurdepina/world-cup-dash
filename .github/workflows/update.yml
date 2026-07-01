@@ -1,0 +1,95 @@
+name: Update WC26 dashboard
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch: {}      # allow manual run
+  push:
+    branches: [main]
+    paths:
+      - "site/**"
+      - "pipeline/**"
+      - ".github/workflows/update.yml"
+
+# Give the workflow permission to push data changes and to deploy to Pages.
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+          cache-dependency-path: site/package-lock.json
+
+      - name: Install pipeline deps
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Fetch live matches and build bracket.json
+        working-directory: pipeline
+        env:
+          FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
+        run: python build_live.py
+
+      - name: Update Elo ratings
+        working-directory: pipeline
+        run: python elo.py
+
+      - name: Monte-Carlo simulate remaining bracket
+        working-directory: pipeline
+        run: python simulate.py
+
+      - name: Commit updated JSONs (if changed)
+        run: |
+          git config user.name "wc26-bot"
+          git config user.email "wc26-bot@users.noreply.github.com"
+          git add site/public/data/bracket.json site/public/data/elo.json site/public/data/odds.json
+          if git diff --cached --quiet; then
+            echo "no data changes to commit"
+          else
+            git commit -m "chore(data): refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
+
+      - name: Install site deps
+        working-directory: site
+        run: npm ci
+
+      - name: Build site
+        working-directory: site
+        env:
+          # For GitHub Pages under /<repo>/ the base path must match.
+          VITE_BASE: /${{ github.event.repository.name }}/
+        run: npm run build
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

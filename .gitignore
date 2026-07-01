@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Node / Vite
+site/node_modules/
+site/dist/
+site/.vite/
+
+# Pipeline cache & scratch — regenerated on every run
+pipeline/cache/
+scratch/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Never commit secrets
+.env
+.env.*
