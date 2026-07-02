@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T04:03:01+00:00",
+  "generatedAt": "2026-07-02T09:23:13+00:00",
   "source": "football-data.org /v4/competitions/WC/matches",
   "competition": {
     "id": 2000,
@@ -259,7 +259,7 @@
           "score": {
             "home": 3,
             "away": 2,
-            "duration": "REGULAR",
+            "duration": "EXTRA_TIME",
             "winner": "HOME_TEAM"
           },
           "winnerId": 805,
@@ -638,8 +638,20 @@
           "status": "TIMED",
           "played": false,
           "utcDate": "2026-07-06T00:00:00Z",
-          "home": null,
-          "away": null,
+          "home": {
+            "id": 769,
+            "name": "Mexico",
+            "shortName": "Mexico",
+            "tla": "MEX",
+            "crest": "https://crests.football-data.org/769.svg"
+          },
+          "away": {
+            "id": 770,
+            "name": "England",
+            "shortName": "England",
+            "tla": "ENG",
+            "crest": "https://crests.football-data.org/770.svg"
+          },
           "score": {
             "home": null,
             "away": null,
@@ -648,8 +660,14 @@
           },
           "winnerId": null,
           "slot": 3,
-          "homeParent": null,
-          "awayParent": null
+          "homeParent": {
+            "id": 537425,
+            "slot": 10
+          },
+          "awayParent": {
+            "id": 537426,
+            "slot": 11
+          }
         },
         {
           "id": 537379,
@@ -676,8 +694,20 @@
           "status": "TIMED",
           "played": false,
           "utcDate": "2026-07-07T00:00:00Z",
-          "home": null,
-          "away": null,
+          "home": {
+            "id": 771,
+            "name": "United States",
+            "shortName": "USA",
+            "tla": "USA",
+            "crest": "https://crests.football-data.org/usa.svg"
+          },
+          "away": {
+            "id": 805,
+            "name": "Belgium",
+            "shortName": "Belgium",
+            "tla": "BEL",
+            "crest": "https://crests.football-data.org/805.svg"
+          },
           "score": {
             "home": null,
             "away": null,
@@ -686,8 +716,14 @@
           },
           "winnerId": null,
           "slot": 5,
-          "homeParent": null,
-          "awayParent": null
+          "homeParent": {
+            "id": 537421,
+            "slot": 6
+          },
+          "awayParent": {
+            "id": 537422,
+            "slot": 7
+          }
         },
         {
           "id": 537381,
