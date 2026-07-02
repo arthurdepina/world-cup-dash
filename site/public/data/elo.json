@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T21:56:26+00:00",
+  "generatedAt": "2026-07-02T04:03:01+00:00",
   "kBase": 50,
   "teams": [
     {
@@ -120,6 +120,15 @@
       "elo": 1899.6
     },
     {
+      "id": 805,
+      "name": "Belgium",
+      "shortName": "Belgium",
+      "tla": "BEL",
+      "crest": "https://crests.football-data.org/805.svg",
+      "eloCode": "BE",
+      "elo": 1899.3
+    },
+    {
       "id": 759,
       "name": "Germany",
       "shortName": "Germany",
@@ -138,13 +147,13 @@
       "elo": 1878.1
     },
     {
-      "id": 805,
-      "name": "Belgium",
-      "shortName": "Belgium",
-      "tla": "BEL",
-      "crest": "https://crests.football-data.org/805.svg",
-      "eloCode": "BE",
-      "elo": 1877.6
+      "id": 771,
+      "name": "United States",
+      "shortName": "USA",
+      "tla": "USA",
+      "crest": "https://crests.football-data.org/usa.svg",
+      "eloCode": "US",
+      "elo": 1855.5
     },
     {
       "id": 816,
@@ -154,24 +163,6 @@
       "crest": "https://crests.football-data.org/816.svg",
       "eloCode": "AT",
       "elo": 1838.5
-    },
-    {
-      "id": 771,
-      "name": "United States",
-      "shortName": "USA",
-      "tla": "USA",
-      "crest": "https://crests.football-data.org/usa.svg",
-      "eloCode": "US",
-      "elo": 1837.8
-    },
-    {
-      "id": 804,
-      "name": "Senegal",
-      "shortName": "Senegal",
-      "tla": "SEN",
-      "crest": "https://crests.football-data.org/senegal.svg",
-      "eloCode": "SN",
-      "elo": 1831.0
     },
     {
       "id": 791,
@@ -190,6 +181,15 @@
       "crest": "https://crests.football-data.org/803.svg",
       "eloCode": "TR",
       "elo": 1812.6
+    },
+    {
+      "id": 804,
+      "name": "Senegal",
+      "shortName": "Senegal",
+      "tla": "SEN",
+      "crest": "https://crests.football-data.org/senegal.svg",
+      "eloCode": "SN",
+      "elo": 1809.3
     },
     {
       "id": 761,
@@ -318,15 +318,6 @@
       "elo": 1638.2
     },
     {
-      "id": 1060,
-      "name": "Bosnia-Herzegovina",
-      "shortName": "Bosnia-H.",
-      "tla": "BIH",
-      "crest": "https://crests.football-data.org/bosnia.svg",
-      "eloCode": "BA",
-      "elo": 1633.9
-    },
-    {
       "id": 763,
       "name": "Ghana",
       "shortName": "Ghana",
@@ -334,6 +325,15 @@
       "crest": "https://crests.football-data.org/ghana.svg",
       "eloCode": "GH",
       "elo": 1618.5
+    },
+    {
+      "id": 1060,
+      "name": "Bosnia-Herzegovina",
+      "shortName": "Bosnia-H.",
+      "tla": "BIH",
+      "crest": "https://crests.football-data.org/bosnia.svg",
+      "eloCode": "BA",
+      "elo": 1616.2
     },
     {
       "id": 1836,
@@ -447,7 +447,7 @@
     "766": 1878.1,
     "769": 1999.1,
     "770": 2053.8,
-    "771": 1837.8,
+    "771": 1855.5,
     "772": 1696.6,
     "773": 2177.7,
     "774": 1581.2,
@@ -462,8 +462,8 @@
     "801": 1610.1,
     "802": 1520.7,
     "803": 1812.6,
-    "804": 1831.0,
-    "805": 1877.6,
+    "804": 1809.3,
+    "805": 1899.3,
     "815": 1923.0,
     "816": 1838.5,
     "818": 2017.5,
@@ -471,7 +471,7 @@
     "828": 1767.6,
     "836": 1495.6,
     "840": 1758.9,
-    "1060": 1633.9,
+    "1060": 1616.2,
     "1836": 1611.7,
     "1930": 1653.0,
     "1934": 1738.9,
@@ -562,6 +562,8 @@
     537416,
     537417,
     537418,
+    537421,
+    537422,
     537423,
     537424,
     537425,
@@ -569,22 +571,41 @@
   ],
   "recentUpdates": [
     {
-      "matchId": 537426,
-      "utcDate": "2026-07-01T16:00:00Z",
+      "matchId": 537422,
+      "utcDate": "2026-07-01T20:00:00Z",
       "stage": "LAST_32",
       "home": {
-        "id": 770,
-        "tla": "ENG",
-        "before": 2046.2,
-        "delta": 7.6
+        "id": 805,
+        "tla": "BEL",
+        "before": 1877.6,
+        "delta": 21.7
       },
       "away": {
-        "id": 1934,
-        "tla": "COD",
-        "before": 1746.5,
-        "delta": -7.6
+        "id": 804,
+        "tla": "SEN",
+        "before": 1831.0,
+        "delta": -21.7
       },
-      "score": "2-1",
+      "score": "3-2",
+      "duration": "REGULAR"
+    },
+    {
+      "matchId": 537421,
+      "utcDate": "2026-07-02T00:00:00Z",
+      "stage": "LAST_32",
+      "home": {
+        "id": 771,
+        "tla": "USA",
+        "before": 1837.8,
+        "delta": 17.7
+      },
+      "away": {
+        "id": 1060,
+        "tla": "BIH",
+        "before": 1633.9,
+        "delta": -17.7
+      },
+      "score": "2-0",
       "duration": "REGULAR"
     }
   ]
