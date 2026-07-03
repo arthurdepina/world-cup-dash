@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T03:48:55+00:00",
+  "generatedAt": "2026-07-03T09:28:05+00:00",
   "kBase": 50,
   "teams": [
     {
@@ -99,7 +99,7 @@
       "tla": "SUI",
       "crest": "https://crests.football-data.org/788.svg",
       "eloCode": "CH",
-      "elo": 1923.1
+      "elo": 1947.2
     },
     {
       "id": 815,
@@ -225,7 +225,7 @@
       "tla": "ALG",
       "crest": "https://crests.football-data.org/algeria.svg",
       "eloCode": "DZ",
-      "elo": 1793.1
+      "elo": 1769.0
     },
     {
       "id": 825,
@@ -451,10 +451,10 @@
     "772": 1696.6,
     "773": 2177.7,
     "774": 1581.2,
-    "778": 1793.1,
+    "778": 1769.0,
     "779": 1804.0,
     "783": 1518.8,
-    "788": 1923.1,
+    "788": 1947.2,
     "791": 1824.1,
     "792": 1739.3,
     "798": 1638.2,
@@ -569,45 +569,27 @@
     537423,
     537424,
     537425,
-    537426
+    537426,
+    537429
   ],
   "recentUpdates": [
     {
-      "matchId": 537420,
-      "utcDate": "2026-07-02T19:00:00Z",
+      "matchId": 537429,
+      "utcDate": "2026-07-03T03:00:00Z",
       "stage": "LAST_32",
       "home": {
-        "id": 760,
-        "tla": "ESP",
-        "before": 2133.2,
-        "delta": 13.6
+        "id": 788,
+        "tla": "SUI",
+        "before": 1923.1,
+        "delta": 24.1
       },
       "away": {
-        "id": 816,
-        "tla": "AUT",
-        "before": 1838.5,
-        "delta": -13.6
+        "id": 778,
+        "tla": "ALG",
+        "before": 1793.1,
+        "delta": -24.1
       },
-      "score": "3-0",
-      "duration": "REGULAR"
-    },
-    {
-      "matchId": 537419,
-      "utcDate": "2026-07-02T23:00:00Z",
-      "stage": "LAST_32",
-      "home": {
-        "id": 765,
-        "tla": "POR",
-        "before": 1987.7,
-        "delta": 18.8
-      },
-      "away": {
-        "id": 799,
-        "tla": "CRO",
-        "before": 1899.6,
-        "delta": -18.8
-      },
-      "score": "2-1",
+      "score": "2-0",
       "duration": "REGULAR"
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T03:48:55+00:00",
+  "generatedAt": "2026-07-03T09:28:05+00:00",
   "source": "football-data.org /v4/competitions/WC/matches",
   "competition": {
     "id": 2000,
@@ -12,7 +12,7 @@
     "count": 104,
     "first": "2026-06-11",
     "last": "2026-07-19",
-    "played": 84
+    "played": 85
   },
   "stages": [
     {
@@ -456,8 +456,8 @@
         {
           "id": 537429,
           "stage": "LAST_32",
-          "status": "IN_PLAY",
-          "played": false,
+          "status": "FINISHED",
+          "played": true,
           "utcDate": "2026-07-03T03:00:00Z",
           "home": {
             "id": 788,
@@ -474,7 +474,7 @@
             "crest": "https://crests.football-data.org/algeria.svg"
           },
           "score": {
-            "home": 1,
+            "home": 2,
             "away": 0,
             "duration": "REGULAR",
             "winner": "HOME_TEAM"
