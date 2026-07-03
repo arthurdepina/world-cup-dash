@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T19:41:23+00:00",
+  "generatedAt": "2026-07-03T03:48:55+00:00",
   "source": "football-data.org /v4/competitions/WC/matches",
   "competition": {
     "id": 2000,
@@ -12,7 +12,7 @@
     "count": 104,
     "first": "2026-06-11",
     "last": "2026-07-19",
-    "played": 82
+    "played": 84
   },
   "stages": [
     {
@@ -146,8 +146,8 @@
         {
           "id": 537419,
           "stage": "LAST_32",
-          "status": "TIMED",
-          "played": false,
+          "status": "FINISHED",
+          "played": true,
           "utcDate": "2026-07-02T23:00:00Z",
           "home": {
             "id": 765,
@@ -164,12 +164,12 @@
             "crest": "https://crests.football-data.org/799.svg"
           },
           "score": {
-            "home": null,
-            "away": null,
+            "home": 2,
+            "away": 1,
             "duration": "REGULAR",
-            "winner": null
+            "winner": "HOME_TEAM"
           },
-          "winnerId": null,
+          "winnerId": 765,
           "slot": 4,
           "homeParent": null,
           "awayParent": null
@@ -177,8 +177,8 @@
         {
           "id": 537420,
           "stage": "LAST_32",
-          "status": "TIMED",
-          "played": false,
+          "status": "FINISHED",
+          "played": true,
           "utcDate": "2026-07-02T19:00:00Z",
           "home": {
             "id": 760,
@@ -195,12 +195,12 @@
             "crest": "https://crests.football-data.org/816.svg"
           },
           "score": {
-            "home": null,
-            "away": null,
+            "home": 3,
+            "away": 0,
             "duration": "REGULAR",
-            "winner": null
+            "winner": "HOME_TEAM"
           },
-          "winnerId": null,
+          "winnerId": 760,
           "slot": 5,
           "homeParent": null,
           "awayParent": null
@@ -456,7 +456,7 @@
         {
           "id": 537429,
           "stage": "LAST_32",
-          "status": "TIMED",
+          "status": "IN_PLAY",
           "played": false,
           "utcDate": "2026-07-03T03:00:00Z",
           "home": {
@@ -474,12 +474,12 @@
             "crest": "https://crests.football-data.org/algeria.svg"
           },
           "score": {
-            "home": null,
-            "away": null,
+            "home": 1,
+            "away": 0,
             "duration": "REGULAR",
-            "winner": null
+            "winner": "HOME_TEAM"
           },
-          "winnerId": null,
+          "winnerId": 788,
           "slot": 14,
           "homeParent": null,
           "awayParent": null

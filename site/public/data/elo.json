@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T19:41:23+00:00",
+  "generatedAt": "2026-07-03T03:48:55+00:00",
   "kBase": 50,
   "teams": [
     {
@@ -27,7 +27,7 @@
       "tla": "ESP",
       "crest": "https://crests.football-data.org/760.svg",
       "eloCode": "ES",
-      "elo": 2133.2
+      "elo": 2146.8
     },
     {
       "id": 764,
@@ -57,6 +57,15 @@
       "elo": 2017.5
     },
     {
+      "id": 765,
+      "name": "Portugal",
+      "shortName": "Portugal",
+      "tla": "POR",
+      "crest": "https://crests.football-data.org/765.svg",
+      "eloCode": "PT",
+      "elo": 2006.5
+    },
+    {
       "id": 769,
       "name": "Mexico",
       "shortName": "Mexico",
@@ -64,15 +73,6 @@
       "crest": "https://crests.football-data.org/769.svg",
       "eloCode": "MX",
       "elo": 1999.1
-    },
-    {
-      "id": 765,
-      "name": "Portugal",
-      "shortName": "Portugal",
-      "tla": "POR",
-      "crest": "https://crests.football-data.org/765.svg",
-      "eloCode": "PT",
-      "elo": 1987.7
     },
     {
       "id": 8601,
@@ -111,15 +111,6 @@
       "elo": 1923.0
     },
     {
-      "id": 799,
-      "name": "Croatia",
-      "shortName": "Croatia",
-      "tla": "CRO",
-      "crest": "https://crests.football-data.org/799.svg",
-      "eloCode": "HR",
-      "elo": 1899.6
-    },
-    {
       "id": 805,
       "name": "Belgium",
       "shortName": "Belgium",
@@ -136,6 +127,15 @@
       "crest": "https://crests.football-data.org/759.svg",
       "eloCode": "DE",
       "elo": 1889.8
+    },
+    {
+      "id": 799,
+      "name": "Croatia",
+      "shortName": "Croatia",
+      "tla": "CRO",
+      "crest": "https://crests.football-data.org/799.svg",
+      "eloCode": "HR",
+      "elo": 1880.8
     },
     {
       "id": 766,
@@ -162,7 +162,7 @@
       "tla": "AUT",
       "crest": "https://crests.football-data.org/816.svg",
       "eloCode": "AT",
-      "elo": 1838.5
+      "elo": 1824.9
     },
     {
       "id": 791,
@@ -438,12 +438,12 @@
   "ratings": {
     "758": 1806.7,
     "759": 1889.8,
-    "760": 2133.2,
+    "760": 2146.8,
     "761": 1808.3,
     "762": 2171.4,
     "763": 1618.5,
     "764": 2054.7,
-    "765": 1987.7,
+    "765": 2006.5,
     "766": 1878.1,
     "769": 1999.1,
     "770": 2053.8,
@@ -458,14 +458,14 @@
     "791": 1824.1,
     "792": 1739.3,
     "798": 1638.2,
-    "799": 1899.6,
+    "799": 1880.8,
     "801": 1610.1,
     "802": 1520.7,
     "803": 1812.6,
     "804": 1809.3,
     "805": 1899.3,
     "815": 1923.0,
-    "816": 1838.5,
+    "816": 1824.9,
     "818": 2017.5,
     "825": 1768.6,
     "828": 1767.6,
@@ -562,6 +562,8 @@
     537416,
     537417,
     537418,
+    537419,
+    537420,
     537421,
     537422,
     537423,
@@ -569,5 +571,44 @@
     537425,
     537426
   ],
-  "recentUpdates": []
+  "recentUpdates": [
+    {
+      "matchId": 537420,
+      "utcDate": "2026-07-02T19:00:00Z",
+      "stage": "LAST_32",
+      "home": {
+        "id": 760,
+        "tla": "ESP",
+        "before": 2133.2,
+        "delta": 13.6
+      },
+      "away": {
+        "id": 816,
+        "tla": "AUT",
+        "before": 1838.5,
+        "delta": -13.6
+      },
+      "score": "3-0",
+      "duration": "REGULAR"
+    },
+    {
+      "matchId": 537419,
+      "utcDate": "2026-07-02T23:00:00Z",
+      "stage": "LAST_32",
+      "home": {
+        "id": 765,
+        "tla": "POR",
+        "before": 1987.7,
+        "delta": 18.8
+      },
+      "away": {
+        "id": 799,
+        "tla": "CRO",
+        "before": 1899.6,
+        "delta": -18.8
+      },
+      "score": "2-1",
+      "duration": "REGULAR"
+    }
+  ]
 }
