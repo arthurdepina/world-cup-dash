@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T14:21:43+00:00",
+  "generatedAt": "2026-07-03T19:38:22+00:00",
   "source": "football-data.org /v4/competitions/WC/matches",
   "competition": {
     "id": 2000,
@@ -425,7 +425,7 @@
         {
           "id": 537428,
           "stage": "LAST_32",
-          "status": "TIMED",
+          "status": "IN_PLAY",
           "played": false,
           "utcDate": "2026-07-03T18:00:00Z",
           "home": {
@@ -443,10 +443,10 @@
             "crest": "https://crests.football-data.org/825.svg"
           },
           "score": {
-            "home": null,
-            "away": null,
+            "home": 1,
+            "away": 1,
             "duration": "REGULAR",
-            "winner": null
+            "winner": "DRAW"
           },
           "winnerId": null,
           "slot": 13,
