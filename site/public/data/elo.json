@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T19:38:22+00:00",
+  "generatedAt": "2026-07-04T08:45:16+00:00",
   "kBase": 50,
   "teams": [
     {
@@ -18,7 +18,7 @@
       "tla": "ARG",
       "crest": "https://crests.football-data.org/762.png",
       "eloCode": "AR",
-      "elo": 2171.4
+      "elo": 2173.8
     },
     {
       "id": 760,
@@ -54,7 +54,7 @@
       "tla": "COL",
       "crest": "https://crests.football-data.org/818.svg",
       "eloCode": "CO",
-      "elo": 2017.5
+      "elo": 2022.1
     },
     {
       "id": 765,
@@ -216,7 +216,16 @@
       "tla": "AUS",
       "crest": "https://crests.football-data.org/779.svg",
       "eloCode": "AU",
-      "elo": 1804.0
+      "elo": 1801.5
+    },
+    {
+      "id": 825,
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "tla": "EGY",
+      "crest": "https://crests.football-data.org/825.svg",
+      "eloCode": "EG",
+      "elo": 1771.1
     },
     {
       "id": 778,
@@ -226,15 +235,6 @@
       "crest": "https://crests.football-data.org/algeria.svg",
       "eloCode": "DZ",
       "elo": 1769.0
-    },
-    {
-      "id": 825,
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "tla": "EGY",
-      "crest": "https://crests.football-data.org/825.svg",
-      "eloCode": "EG",
-      "elo": 1768.6
     },
     {
       "id": 828,
@@ -306,7 +306,7 @@
       "tla": "CPV",
       "crest": "https://crests.football-data.org/cape_verde.svg",
       "eloCode": "CV",
-      "elo": 1653.0
+      "elo": 1650.6
     },
     {
       "id": 798,
@@ -318,15 +318,6 @@
       "elo": 1638.2
     },
     {
-      "id": 763,
-      "name": "Ghana",
-      "shortName": "Ghana",
-      "tla": "GHA",
-      "crest": "https://crests.football-data.org/ghana.svg",
-      "eloCode": "GH",
-      "elo": 1618.5
-    },
-    {
       "id": 1060,
       "name": "Bosnia-Herzegovina",
       "shortName": "Bosnia-H.",
@@ -334,6 +325,15 @@
       "crest": "https://crests.football-data.org/bosnia.svg",
       "eloCode": "BA",
       "elo": 1616.2
+    },
+    {
+      "id": 763,
+      "name": "Ghana",
+      "shortName": "Ghana",
+      "tla": "GHA",
+      "crest": "https://crests.football-data.org/ghana.svg",
+      "eloCode": "GH",
+      "elo": 1613.9
     },
     {
       "id": 1836,
@@ -440,8 +440,8 @@
     "759": 1889.8,
     "760": 2146.8,
     "761": 1808.3,
-    "762": 2171.4,
-    "763": 1618.5,
+    "762": 2173.8,
+    "763": 1613.9,
     "764": 2054.7,
     "765": 2006.5,
     "766": 1878.1,
@@ -452,7 +452,7 @@
     "773": 2177.7,
     "774": 1581.2,
     "778": 1769.0,
-    "779": 1804.0,
+    "779": 1801.5,
     "783": 1518.8,
     "788": 1947.2,
     "791": 1824.1,
@@ -466,14 +466,14 @@
     "805": 1899.3,
     "815": 1923.0,
     "816": 1824.9,
-    "818": 2017.5,
-    "825": 1768.6,
+    "818": 2022.1,
+    "825": 1771.1,
     "828": 1767.6,
     "836": 1495.6,
     "840": 1758.9,
     "1060": 1616.2,
     "1836": 1611.7,
-    "1930": 1653.0,
+    "1930": 1650.6,
     "1934": 1738.9,
     "1935": 1745.6,
     "8030": 1400.6,
@@ -570,7 +570,68 @@
     537424,
     537425,
     537426,
-    537429
+    537427,
+    537428,
+    537429,
+    537430
   ],
-  "recentUpdates": []
+  "recentUpdates": [
+    {
+      "matchId": 537428,
+      "utcDate": "2026-07-03T18:00:00Z",
+      "stage": "LAST_32",
+      "home": {
+        "id": 779,
+        "tla": "AUS",
+        "before": 1804.0,
+        "delta": -2.5
+      },
+      "away": {
+        "id": 825,
+        "tla": "EGY",
+        "before": 1768.6,
+        "delta": 2.5
+      },
+      "score": "3-5",
+      "duration": "PENALTY_SHOOTOUT"
+    },
+    {
+      "matchId": 537427,
+      "utcDate": "2026-07-03T22:00:00Z",
+      "stage": "LAST_32",
+      "home": {
+        "id": 762,
+        "tla": "ARG",
+        "before": 2171.4,
+        "delta": 2.4
+      },
+      "away": {
+        "id": 1930,
+        "tla": "CPV",
+        "before": 1653.0,
+        "delta": -2.4
+      },
+      "score": "3-2",
+      "duration": "EXTRA_TIME"
+    },
+    {
+      "matchId": 537430,
+      "utcDate": "2026-07-04T01:30:00Z",
+      "stage": "LAST_32",
+      "home": {
+        "id": 818,
+        "tla": "COL",
+        "before": 2017.5,
+        "delta": 4.6
+      },
+      "away": {
+        "id": 763,
+        "tla": "GHA",
+        "before": 1618.5,
+        "delta": -4.6
+      },
+      "score": "1-0",
+      "duration": "REGULAR"
+    }
+  ]
 }
