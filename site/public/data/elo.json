@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T08:45:16+00:00",
+  "generatedAt": "2026-07-04T13:46:48+00:00",
   "kBase": 50,
   "teams": [
     {
@@ -575,63 +575,5 @@
     537429,
     537430
   ],
-  "recentUpdates": [
-    {
-      "matchId": 537428,
-      "utcDate": "2026-07-03T18:00:00Z",
-      "stage": "LAST_32",
-      "home": {
-        "id": 779,
-        "tla": "AUS",
-        "before": 1804.0,
-        "delta": -2.5
-      },
-      "away": {
-        "id": 825,
-        "tla": "EGY",
-        "before": 1768.6,
-        "delta": 2.5
-      },
-      "score": "3-5",
-      "duration": "PENALTY_SHOOTOUT"
-    },
-    {
-      "matchId": 537427,
-      "utcDate": "2026-07-03T22:00:00Z",
-      "stage": "LAST_32",
-      "home": {
-        "id": 762,
-        "tla": "ARG",
-        "before": 2171.4,
-        "delta": 2.4
-      },
-      "away": {
-        "id": 1930,
-        "tla": "CPV",
-        "before": 1653.0,
-        "delta": -2.4
-      },
-      "score": "3-2",
-      "duration": "EXTRA_TIME"
-    },
-    {
-      "matchId": 537430,
-      "utcDate": "2026-07-04T01:30:00Z",
-      "stage": "LAST_32",
-      "home": {
-        "id": 818,
-        "tla": "COL",
-        "before": 2017.5,
-        "delta": 4.6
-      },
-      "away": {
-        "id": 763,
-        "tla": "GHA",
-        "before": 1618.5,
-        "delta": -4.6
-      },
-      "score": "1-0",
-      "duration": "REGULAR"
-    }
-  ]
+  "recentUpdates": []
 }
