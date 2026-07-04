@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T13:46:48+00:00",
+  "generatedAt": "2026-07-04T19:22:59+00:00",
   "source": "football-data.org /v4/competitions/WC/matches",
   "competition": {
     "id": 2000,
@@ -12,7 +12,7 @@
     "count": 104,
     "first": "2026-06-11",
     "last": "2026-07-19",
-    "played": 88
+    "played": 89
   },
   "stages": [
     {
@@ -561,8 +561,8 @@
         {
           "id": 537376,
           "stage": "LAST_16",
-          "status": "TIMED",
-          "played": false,
+          "status": "FINISHED",
+          "played": true,
           "utcDate": "2026-07-04T17:00:00Z",
           "home": {
             "id": 828,
@@ -579,12 +579,12 @@
             "crest": "https://crests.football-data.org/morocco.svg"
           },
           "score": {
-            "home": null,
-            "away": null,
+            "home": 0,
+            "away": 3,
             "duration": "REGULAR",
-            "winner": null
+            "winner": "AWAY_TEAM"
           },
-          "winnerId": null,
+          "winnerId": 815,
           "slot": 1,
           "homeParent": {
             "id": 537417,

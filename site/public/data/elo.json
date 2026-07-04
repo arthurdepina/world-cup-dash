@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T13:46:48+00:00",
+  "generatedAt": "2026-07-04T19:22:59+00:00",
   "kBase": 50,
   "teams": [
     {
@@ -93,6 +93,15 @@
       "elo": 1951.3
     },
     {
+      "id": 815,
+      "name": "Morocco",
+      "shortName": "Morocco",
+      "tla": "MAR",
+      "crest": "https://crests.football-data.org/morocco.svg",
+      "eloCode": "MA",
+      "elo": 1948.4
+    },
+    {
       "id": 788,
       "name": "Switzerland",
       "shortName": "Switzerland",
@@ -100,15 +109,6 @@
       "crest": "https://crests.football-data.org/788.svg",
       "eloCode": "CH",
       "elo": 1947.2
-    },
-    {
-      "id": 815,
-      "name": "Morocco",
-      "shortName": "Morocco",
-      "tla": "MAR",
-      "crest": "https://crests.football-data.org/morocco.svg",
-      "eloCode": "MA",
-      "elo": 1923.0
     },
     {
       "id": 805,
@@ -237,15 +237,6 @@
       "elo": 1769.0
     },
     {
-      "id": 828,
-      "name": "Canada",
-      "shortName": "Canada",
-      "tla": "CAN",
-      "crest": "https://crests.football-data.org/canada.svg",
-      "eloCode": "CA",
-      "elo": 1767.6
-    },
-    {
       "id": 840,
       "name": "Iran",
       "shortName": "Iran",
@@ -262,6 +253,15 @@
       "crest": "https://crests.football-data.org/787.svg",
       "eloCode": "CI",
       "elo": 1745.6
+    },
+    {
+      "id": 828,
+      "name": "Canada",
+      "shortName": "Canada",
+      "tla": "CAN",
+      "crest": "https://crests.football-data.org/canada.svg",
+      "eloCode": "CA",
+      "elo": 1742.2
     },
     {
       "id": 792,
@@ -464,11 +464,11 @@
     "803": 1812.6,
     "804": 1809.3,
     "805": 1899.3,
-    "815": 1923.0,
+    "815": 1948.4,
     "816": 1824.9,
     "818": 2022.1,
     "825": 1771.1,
-    "828": 1767.6,
+    "828": 1742.2,
     "836": 1495.6,
     "840": 1758.9,
     "1060": 1616.2,
@@ -534,6 +534,7 @@
     537372,
     537373,
     537374,
+    537376,
     537391,
     537392,
     537393,
@@ -575,5 +576,25 @@
     537429,
     537430
   ],
-  "recentUpdates": []
+  "recentUpdates": [
+    {
+      "matchId": 537376,
+      "utcDate": "2026-07-04T17:00:00Z",
+      "stage": "LAST_16",
+      "home": {
+        "id": 828,
+        "tla": "CAN",
+        "before": 1767.6,
+        "delta": -25.4
+      },
+      "away": {
+        "id": 815,
+        "tla": "MAR",
+        "before": 1923.0,
+        "delta": 25.4
+      },
+      "score": "0-3",
+      "duration": "REGULAR"
+    }
+  ]
 }

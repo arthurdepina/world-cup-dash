@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T13:46:48+00:00",
+  "generatedAt": "2026-07-04T19:22:59+00:00",
   "nSims": 10000,
   "seed": 26,
   "kBase": 50,
@@ -26,10 +26,10 @@
       "eloCode": "FR",
       "elo": 2177.7,
       "probR16": 1.0,
-      "probQF": 0.8873,
-      "probSF": 0.7441,
-      "probFinal": 0.5213,
-      "probChampion": 0.3192
+      "probQF": 0.8898,
+      "probSF": 0.7058,
+      "probFinal": 0.5033,
+      "probChampion": 0.3107
     },
     {
       "id": 762,
@@ -40,10 +40,10 @@
       "eloCode": "AR",
       "elo": 2173.8,
       "probR16": 1.0,
-      "probQF": 0.9121,
-      "probSF": 0.6709,
-      "probFinal": 0.4514,
-      "probChampion": 0.2618
+      "probQF": 0.9153,
+      "probSF": 0.6775,
+      "probFinal": 0.458,
+      "probChampion": 0.269
     },
     {
       "id": 760,
@@ -54,10 +54,10 @@
       "eloCode": "ES",
       "elo": 2146.8,
       "probR16": 1.0,
-      "probQF": 0.6818,
-      "probSF": 0.5634,
-      "probFinal": 0.2936,
-      "probChampion": 0.1514
+      "probQF": 0.6958,
+      "probSF": 0.5695,
+      "probFinal": 0.2856,
+      "probChampion": 0.155
     },
     {
       "id": 764,
@@ -68,10 +68,10 @@
       "eloCode": "BR",
       "elo": 2054.7,
       "probR16": 1.0,
-      "probQF": 0.6492,
-      "probSF": 0.3637,
-      "probFinal": 0.1562,
-      "probChampion": 0.0675
+      "probQF": 0.6412,
+      "probSF": 0.3593,
+      "probFinal": 0.1522,
+      "probChampion": 0.0601
     },
     {
       "id": 770,
@@ -82,10 +82,10 @@
       "eloCode": "EN",
       "elo": 2053.8,
       "probR16": 1.0,
-      "probQF": 0.5793,
-      "probSF": 0.301,
-      "probFinal": 0.1249,
-      "probChampion": 0.0538
+      "probQF": 0.5807,
+      "probSF": 0.3004,
+      "probFinal": 0.1269,
+      "probChampion": 0.0496
     },
     {
       "id": 818,
@@ -96,24 +96,24 @@
       "eloCode": "CO",
       "elo": 2022.1,
       "probR16": 1.0,
-      "probQF": 0.6061,
-      "probSF": 0.2053,
-      "probFinal": 0.0922,
-      "probChampion": 0.0374
+      "probQF": 0.605,
+      "probSF": 0.2007,
+      "probFinal": 0.0923,
+      "probChampion": 0.0371
     },
     {
-      "id": 769,
-      "name": "Mexico",
-      "shortName": "Mexico",
-      "tla": "MEX",
-      "crest": "https://crests.football-data.org/769.svg",
-      "eloCode": "MX",
-      "elo": 1999.1,
+      "id": 815,
+      "name": "Morocco",
+      "shortName": "Morocco",
+      "tla": "MAR",
+      "crest": "https://crests.football-data.org/morocco.svg",
+      "eloCode": "MA",
+      "elo": 1948.4,
       "probR16": 1.0,
-      "probQF": 0.4207,
-      "probSF": 0.2037,
-      "probFinal": 0.0804,
-      "probChampion": 0.0286
+      "probQF": 1.0,
+      "probSF": 0.261,
+      "probFinal": 0.0949,
+      "probChampion": 0.0304
     },
     {
       "id": 765,
@@ -124,24 +124,24 @@
       "eloCode": "PT",
       "elo": 2006.5,
       "probR16": 1.0,
-      "probQF": 0.3182,
-      "probSF": 0.2133,
-      "probFinal": 0.0727,
-      "probChampion": 0.0284
+      "probQF": 0.3042,
+      "probSF": 0.2032,
+      "probFinal": 0.0699,
+      "probChampion": 0.0266
     },
     {
-      "id": 815,
-      "name": "Morocco",
-      "shortName": "Morocco",
-      "tla": "MAR",
-      "crest": "https://crests.football-data.org/morocco.svg",
-      "eloCode": "MA",
-      "elo": 1923.0,
+      "id": 769,
+      "name": "Mexico",
+      "shortName": "Mexico",
+      "tla": "MEX",
+      "crest": "https://crests.football-data.org/769.svg",
+      "eloCode": "MX",
+      "elo": 1999.1,
       "probR16": 1.0,
-      "probQF": 0.7148,
-      "probSF": 0.1747,
-      "probFinal": 0.0576,
-      "probChampion": 0.0138
+      "probQF": 0.4193,
+      "probSF": 0.199,
+      "probFinal": 0.0723,
+      "probChampion": 0.0237
     },
     {
       "id": 8872,
@@ -152,9 +152,9 @@
       "eloCode": "NO",
       "elo": 1951.3,
       "probR16": 1.0,
-      "probQF": 0.3508,
-      "probSF": 0.1316,
-      "probFinal": 0.0425,
+      "probQF": 0.3588,
+      "probSF": 0.1413,
+      "probFinal": 0.0439,
       "probChampion": 0.0129
     },
     {
@@ -166,10 +166,10 @@
       "eloCode": "CH",
       "elo": 1947.2,
       "probR16": 1.0,
-      "probQF": 0.3939,
-      "probSF": 0.1045,
-      "probFinal": 0.0367,
-      "probChampion": 0.0104
+      "probQF": 0.395,
+      "probSF": 0.1012,
+      "probFinal": 0.0386,
+      "probChampion": 0.0119
     },
     {
       "id": 805,
@@ -180,10 +180,10 @@
       "eloCode": "BE",
       "elo": 1899.3,
       "probR16": 1.0,
-      "probQF": 0.5659,
-      "probSF": 0.1402,
-      "probFinal": 0.0317,
-      "probChampion": 0.0083
+      "probQF": 0.5621,
+      "probSF": 0.141,
+      "probFinal": 0.0339,
+      "probChampion": 0.0075
     },
     {
       "id": 771,
@@ -194,10 +194,10 @@
       "eloCode": "US",
       "elo": 1855.5,
       "probR16": 1.0,
-      "probQF": 0.4341,
-      "probSF": 0.0831,
-      "probFinal": 0.0191,
-      "probChampion": 0.0041
+      "probQF": 0.4379,
+      "probSF": 0.0863,
+      "probFinal": 0.0188,
+      "probChampion": 0.0043
     },
     {
       "id": 761,
@@ -208,23 +208,9 @@
       "eloCode": "PY",
       "elo": 1808.3,
       "probR16": 1.0,
-      "probQF": 0.1127,
-      "probSF": 0.0472,
-      "probFinal": 0.0102,
-      "probChampion": 0.001
-    },
-    {
-      "id": 828,
-      "name": "Canada",
-      "shortName": "Canada",
-      "tla": "CAN",
-      "crest": "https://crests.football-data.org/canada.svg",
-      "eloCode": "CA",
-      "elo": 1767.6,
-      "probR16": 1.0,
-      "probQF": 0.2852,
-      "probSF": 0.034,
-      "probFinal": 0.0069,
+      "probQF": 0.1102,
+      "probSF": 0.0332,
+      "probFinal": 0.0065,
       "probChampion": 0.0007
     },
     {
@@ -236,10 +222,24 @@
       "eloCode": "EG",
       "elo": 1771.1,
       "probR16": 1.0,
-      "probQF": 0.0879,
-      "probSF": 0.0193,
-      "probFinal": 0.0026,
-      "probChampion": 0.0007
+      "probQF": 0.0847,
+      "probSF": 0.0206,
+      "probFinal": 0.0029,
+      "probChampion": 0.0005
+    },
+    {
+      "id": 828,
+      "name": "Canada",
+      "shortName": "Canada",
+      "tla": "CAN",
+      "crest": "https://crests.football-data.org/canada.svg",
+      "eloCode": "CA",
+      "elo": 1742.2,
+      "probR16": 1.0,
+      "probQF": 0.0,
+      "probSF": 0.0,
+      "probFinal": 0.0,
+      "probChampion": 0.0
     },
     {
       "id": 774,
