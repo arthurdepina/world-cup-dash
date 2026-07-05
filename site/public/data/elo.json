@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T19:22:59+00:00",
+  "generatedAt": "2026-07-05T03:59:50+00:00",
   "kBase": 50,
   "teams": [
     {
@@ -9,7 +9,7 @@
       "tla": "FRA",
       "crest": "https://crests.football-data.org/773.svg",
       "eloCode": "FR",
-      "elo": 2177.7
+      "elo": 2183.0
     },
     {
       "id": 762,
@@ -192,15 +192,6 @@
       "elo": 1809.3
     },
     {
-      "id": 761,
-      "name": "Paraguay",
-      "shortName": "Paraguay",
-      "tla": "PAR",
-      "crest": "https://crests.football-data.org/761.svg",
-      "eloCode": "PY",
-      "elo": 1808.3
-    },
-    {
       "id": 758,
       "name": "Uruguay",
       "shortName": "Uruguay",
@@ -208,6 +199,15 @@
       "crest": "https://crests.football-data.org/758.svg",
       "eloCode": "UY",
       "elo": 1806.7
+    },
+    {
+      "id": 761,
+      "name": "Paraguay",
+      "shortName": "Paraguay",
+      "tla": "PAR",
+      "crest": "https://crests.football-data.org/761.svg",
+      "eloCode": "PY",
+      "elo": 1803.0
     },
     {
       "id": 779,
@@ -439,7 +439,7 @@
     "758": 1806.7,
     "759": 1889.8,
     "760": 2146.8,
-    "761": 1808.3,
+    "761": 1803.0,
     "762": 2173.8,
     "763": 1613.9,
     "764": 2054.7,
@@ -449,7 +449,7 @@
     "770": 2053.8,
     "771": 1855.5,
     "772": 1696.6,
-    "773": 2177.7,
+    "773": 2183.0,
     "774": 1581.2,
     "778": 1769.0,
     "779": 1801.5,
@@ -534,6 +534,7 @@
     537372,
     537373,
     537374,
+    537375,
     537376,
     537391,
     537392,
@@ -578,22 +579,22 @@
   ],
   "recentUpdates": [
     {
-      "matchId": 537376,
-      "utcDate": "2026-07-04T17:00:00Z",
+      "matchId": 537375,
+      "utcDate": "2026-07-04T21:00:00Z",
       "stage": "LAST_16",
       "home": {
-        "id": 828,
-        "tla": "CAN",
-        "before": 1767.6,
-        "delta": -25.4
+        "id": 761,
+        "tla": "PAR",
+        "before": 1808.3,
+        "delta": -5.3
       },
       "away": {
-        "id": 815,
-        "tla": "MAR",
-        "before": 1923.0,
-        "delta": 25.4
+        "id": 773,
+        "tla": "FRA",
+        "before": 2177.7,
+        "delta": 5.3
       },
-      "score": "0-3",
+      "score": "0-1",
       "duration": "REGULAR"
     }
   ]

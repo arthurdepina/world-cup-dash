@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T19:22:59+00:00",
+  "generatedAt": "2026-07-05T03:59:51+00:00",
   "nSims": 10000,
   "seed": 26,
   "kBase": 50,
@@ -24,12 +24,12 @@
       "tla": "FRA",
       "crest": "https://crests.football-data.org/773.svg",
       "eloCode": "FR",
-      "elo": 2177.7,
+      "elo": 2183.0,
       "probR16": 1.0,
-      "probQF": 0.8898,
-      "probSF": 0.7058,
-      "probFinal": 0.5033,
-      "probChampion": 0.3107
+      "probQF": 1.0,
+      "probSF": 0.7927,
+      "probFinal": 0.562,
+      "probChampion": 0.3393
     },
     {
       "id": 762,
@@ -40,10 +40,10 @@
       "eloCode": "AR",
       "elo": 2173.8,
       "probR16": 1.0,
-      "probQF": 0.9153,
-      "probSF": 0.6775,
-      "probFinal": 0.458,
-      "probChampion": 0.269
+      "probQF": 0.9114,
+      "probSF": 0.6762,
+      "probFinal": 0.4549,
+      "probChampion": 0.2524
     },
     {
       "id": 760,
@@ -54,10 +54,10 @@
       "eloCode": "ES",
       "elo": 2146.8,
       "probR16": 1.0,
-      "probQF": 0.6958,
-      "probSF": 0.5695,
-      "probFinal": 0.2856,
-      "probChampion": 0.155
+      "probQF": 0.6858,
+      "probSF": 0.5648,
+      "probFinal": 0.2884,
+      "probChampion": 0.1601
     },
     {
       "id": 764,
@@ -68,10 +68,10 @@
       "eloCode": "BR",
       "elo": 2054.7,
       "probR16": 1.0,
-      "probQF": 0.6412,
-      "probSF": 0.3593,
-      "probFinal": 0.1522,
-      "probChampion": 0.0601
+      "probQF": 0.6602,
+      "probSF": 0.3706,
+      "probFinal": 0.1439,
+      "probChampion": 0.0589
     },
     {
       "id": 770,
@@ -82,10 +82,10 @@
       "eloCode": "EN",
       "elo": 2053.8,
       "probR16": 1.0,
-      "probQF": 0.5807,
-      "probSF": 0.3004,
-      "probFinal": 0.1269,
-      "probChampion": 0.0496
+      "probQF": 0.584,
+      "probSF": 0.2997,
+      "probFinal": 0.1143,
+      "probChampion": 0.0488
     },
     {
       "id": 818,
@@ -96,10 +96,24 @@
       "eloCode": "CO",
       "elo": 2022.1,
       "probR16": 1.0,
-      "probQF": 0.605,
-      "probSF": 0.2007,
-      "probFinal": 0.0923,
-      "probChampion": 0.0371
+      "probQF": 0.602,
+      "probSF": 0.2026,
+      "probFinal": 0.09,
+      "probChampion": 0.0336
+    },
+    {
+      "id": 765,
+      "name": "Portugal",
+      "shortName": "Portugal",
+      "tla": "POR",
+      "crest": "https://crests.football-data.org/765.svg",
+      "eloCode": "PT",
+      "elo": 2006.5,
+      "probR16": 1.0,
+      "probQF": 0.3142,
+      "probSF": 0.2068,
+      "probFinal": 0.0742,
+      "probChampion": 0.0261
     },
     {
       "id": 815,
@@ -111,23 +125,9 @@
       "elo": 1948.4,
       "probR16": 1.0,
       "probQF": 1.0,
-      "probSF": 0.261,
-      "probFinal": 0.0949,
-      "probChampion": 0.0304
-    },
-    {
-      "id": 765,
-      "name": "Portugal",
-      "shortName": "Portugal",
-      "tla": "POR",
-      "crest": "https://crests.football-data.org/765.svg",
-      "eloCode": "PT",
-      "elo": 2006.5,
-      "probR16": 1.0,
-      "probQF": 0.3042,
-      "probSF": 0.2032,
-      "probFinal": 0.0699,
-      "probChampion": 0.0266
+      "probSF": 0.2073,
+      "probFinal": 0.0806,
+      "probChampion": 0.0241
     },
     {
       "id": 769,
@@ -138,24 +138,10 @@
       "eloCode": "MX",
       "elo": 1999.1,
       "probR16": 1.0,
-      "probQF": 0.4193,
-      "probSF": 0.199,
-      "probFinal": 0.0723,
-      "probChampion": 0.0237
-    },
-    {
-      "id": 8872,
-      "name": "Norway",
-      "shortName": "Norway",
-      "tla": "NOR",
-      "crest": "https://crests.football-data.org/813.svg",
-      "eloCode": "NO",
-      "elo": 1951.3,
-      "probR16": 1.0,
-      "probQF": 0.3588,
-      "probSF": 0.1413,
-      "probFinal": 0.0439,
-      "probChampion": 0.0129
+      "probQF": 0.416,
+      "probSF": 0.1954,
+      "probFinal": 0.0643,
+      "probChampion": 0.0216
     },
     {
       "id": 788,
@@ -166,10 +152,24 @@
       "eloCode": "CH",
       "elo": 1947.2,
       "probR16": 1.0,
-      "probQF": 0.395,
-      "probSF": 0.1012,
-      "probFinal": 0.0386,
-      "probChampion": 0.0119
+      "probQF": 0.398,
+      "probSF": 0.102,
+      "probFinal": 0.038,
+      "probChampion": 0.0116
+    },
+    {
+      "id": 8872,
+      "name": "Norway",
+      "shortName": "Norway",
+      "tla": "NOR",
+      "crest": "https://crests.football-data.org/813.svg",
+      "eloCode": "NO",
+      "elo": 1951.3,
+      "probR16": 1.0,
+      "probQF": 0.3398,
+      "probSF": 0.1343,
+      "probFinal": 0.0349,
+      "probChampion": 0.0115
     },
     {
       "id": 805,
@@ -180,10 +180,10 @@
       "eloCode": "BE",
       "elo": 1899.3,
       "probR16": 1.0,
-      "probQF": 0.5621,
-      "probSF": 0.141,
-      "probFinal": 0.0339,
-      "probChampion": 0.0075
+      "probQF": 0.5558,
+      "probSF": 0.1386,
+      "probFinal": 0.0315,
+      "probChampion": 0.0076
     },
     {
       "id": 771,
@@ -194,24 +194,10 @@
       "eloCode": "US",
       "elo": 1855.5,
       "probR16": 1.0,
-      "probQF": 0.4379,
-      "probSF": 0.0863,
-      "probFinal": 0.0188,
-      "probChampion": 0.0043
-    },
-    {
-      "id": 761,
-      "name": "Paraguay",
-      "shortName": "Paraguay",
-      "tla": "PAR",
-      "crest": "https://crests.football-data.org/761.svg",
-      "eloCode": "PY",
-      "elo": 1808.3,
-      "probR16": 1.0,
-      "probQF": 0.1102,
-      "probSF": 0.0332,
-      "probFinal": 0.0065,
-      "probChampion": 0.0007
+      "probQF": 0.4442,
+      "probSF": 0.0898,
+      "probFinal": 0.0194,
+      "probChampion": 0.0038
     },
     {
       "id": 825,
@@ -222,10 +208,24 @@
       "eloCode": "EG",
       "elo": 1771.1,
       "probR16": 1.0,
-      "probQF": 0.0847,
-      "probSF": 0.0206,
-      "probFinal": 0.0029,
-      "probChampion": 0.0005
+      "probQF": 0.0886,
+      "probSF": 0.0192,
+      "probFinal": 0.0036,
+      "probChampion": 0.0006
+    },
+    {
+      "id": 761,
+      "name": "Paraguay",
+      "shortName": "Paraguay",
+      "tla": "PAR",
+      "crest": "https://crests.football-data.org/761.svg",
+      "eloCode": "PY",
+      "elo": 1803.0,
+      "probR16": 1.0,
+      "probQF": 0.0,
+      "probSF": 0.0,
+      "probFinal": 0.0,
+      "probChampion": 0.0
     },
     {
       "id": 828,
