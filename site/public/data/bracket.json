@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T03:59:50+00:00",
+  "generatedAt": "2026-07-05T09:14:21+00:00",
   "source": "football-data.org /v4/competitions/WC/matches",
   "competition": {
     "id": 2000,
@@ -829,8 +829,20 @@
           "status": "TIMED",
           "played": false,
           "utcDate": "2026-07-09T20:00:00Z",
-          "home": null,
-          "away": null,
+          "home": {
+            "id": 773,
+            "name": "France",
+            "shortName": "France",
+            "tla": "FRA",
+            "crest": "https://crests.football-data.org/773.svg"
+          },
+          "away": {
+            "id": 815,
+            "name": "Morocco",
+            "shortName": "Morocco",
+            "tla": "MAR",
+            "crest": "https://crests.football-data.org/morocco.svg"
+          },
           "score": {
             "home": null,
             "away": null,
@@ -839,8 +851,14 @@
           },
           "winnerId": null,
           "slot": 0,
-          "homeParent": null,
-          "awayParent": null
+          "homeParent": {
+            "id": 537375,
+            "slot": 0
+          },
+          "awayParent": {
+            "id": 537376,
+            "slot": 1
+          }
         },
         {
           "id": 537384,

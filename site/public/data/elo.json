@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T03:59:50+00:00",
+  "generatedAt": "2026-07-05T09:14:21+00:00",
   "kBase": 50,
   "teams": [
     {
@@ -577,25 +577,5 @@
     537429,
     537430
   ],
-  "recentUpdates": [
-    {
-      "matchId": 537375,
-      "utcDate": "2026-07-04T21:00:00Z",
-      "stage": "LAST_16",
-      "home": {
-        "id": 761,
-        "tla": "PAR",
-        "before": 1808.3,
-        "delta": -5.3
-      },
-      "away": {
-        "id": 773,
-        "tla": "FRA",
-        "before": 2177.7,
-        "delta": 5.3
-      },
-      "score": "0-1",
-      "duration": "REGULAR"
-    }
-  ]
+  "recentUpdates": []
 }
