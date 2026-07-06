@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T04:05:51+00:00",
+  "generatedAt": "2026-07-06T10:50:02+00:00",
   "nSims": 10000,
   "seed": 26,
   "kBase": 50,
@@ -12,7 +12,7 @@
   ],
   "topologyObserved": {
     "LAST_16": 8,
-    "QUARTER_FINALS": 1,
+    "QUARTER_FINALS": 2,
     "SEMI_FINALS": 0,
     "FINAL": 0
   },
@@ -28,8 +28,8 @@
       "probR16": 1.0,
       "probQF": 1.0,
       "probSF": 0.796,
-      "probFinal": 0.5497,
-      "probChampion": 0.339
+      "probFinal": 0.518,
+      "probChampion": 0.3329
     },
     {
       "id": 762,
@@ -42,8 +42,8 @@
       "probR16": 1.0,
       "probQF": 0.9139,
       "probSF": 0.6736,
-      "probFinal": 0.4577,
-      "probChampion": 0.2553
+      "probFinal": 0.4616,
+      "probChampion": 0.2543
     },
     {
       "id": 760,
@@ -55,9 +55,9 @@
       "elo": 2146.8,
       "probR16": 1.0,
       "probQF": 0.6944,
-      "probSF": 0.577,
-      "probFinal": 0.2933,
-      "probChampion": 0.1564
+      "probSF": 0.5711,
+      "probFinal": 0.2955,
+      "probChampion": 0.1625
     },
     {
       "id": 770,
@@ -69,9 +69,9 @@
       "elo": 2074.9,
       "probR16": 1.0,
       "probQF": 1.0,
-      "probSF": 0.6233,
-      "probFinal": 0.2621,
-      "probChampion": 0.1138
+      "probSF": 0.6204,
+      "probFinal": 0.2736,
+      "probChampion": 0.1089
     },
     {
       "id": 8872,
@@ -83,9 +83,9 @@
       "elo": 1983.5,
       "probR16": 1.0,
       "probQF": 1.0,
-      "probSF": 0.3767,
-      "probFinal": 0.1098,
-      "probChampion": 0.0381
+      "probSF": 0.3796,
+      "probFinal": 0.1272,
+      "probChampion": 0.0379
     },
     {
       "id": 818,
@@ -98,8 +98,8 @@
       "probR16": 1.0,
       "probQF": 0.6025,
       "probSF": 0.2051,
-      "probFinal": 0.0935,
-      "probChampion": 0.035
+      "probFinal": 0.0981,
+      "probChampion": 0.0355
     },
     {
       "id": 765,
@@ -111,9 +111,9 @@
       "elo": 2006.5,
       "probR16": 1.0,
       "probQF": 0.3056,
-      "probSF": 0.2021,
-      "probFinal": 0.0692,
-      "probChampion": 0.023
+      "probSF": 0.2033,
+      "probFinal": 0.0663,
+      "probChampion": 0.0257
     },
     {
       "id": 815,
@@ -126,8 +126,8 @@
       "probR16": 1.0,
       "probQF": 1.0,
       "probSF": 0.204,
-      "probFinal": 0.0784,
-      "probChampion": 0.0218
+      "probFinal": 0.0748,
+      "probChampion": 0.022
     },
     {
       "id": 788,
@@ -140,8 +140,8 @@
       "probR16": 1.0,
       "probQF": 0.3975,
       "probSF": 0.1023,
-      "probFinal": 0.0355,
-      "probChampion": 0.0083
+      "probFinal": 0.0361,
+      "probChampion": 0.0092
     },
     {
       "id": 805,
@@ -153,9 +153,9 @@
       "elo": 1899.3,
       "probR16": 1.0,
       "probQF": 0.5725,
-      "probSF": 0.1412,
-      "probFinal": 0.0322,
-      "probChampion": 0.0067
+      "probSF": 0.1416,
+      "probFinal": 0.0305,
+      "probChampion": 0.008
     },
     {
       "id": 771,
@@ -167,9 +167,9 @@
       "elo": 1855.5,
       "probR16": 1.0,
       "probQF": 0.4275,
-      "probSF": 0.0797,
-      "probFinal": 0.0155,
-      "probChampion": 0.0024
+      "probSF": 0.084,
+      "probFinal": 0.0149,
+      "probChampion": 0.0027
     },
     {
       "id": 825,
@@ -182,8 +182,8 @@
       "probR16": 1.0,
       "probQF": 0.0861,
       "probSF": 0.019,
-      "probFinal": 0.0031,
-      "probChampion": 0.0002
+      "probFinal": 0.0034,
+      "probChampion": 0.0004
     },
     {
       "id": 761,

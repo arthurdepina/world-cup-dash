@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T04:05:51+00:00",
+  "generatedAt": "2026-07-06T10:50:02+00:00",
   "kBase": 50,
   "teams": [
     {
@@ -579,44 +579,5 @@
     537429,
     537430
   ],
-  "recentUpdates": [
-    {
-      "matchId": 537377,
-      "utcDate": "2026-07-05T20:00:00Z",
-      "stage": "LAST_16",
-      "home": {
-        "id": 764,
-        "tla": "BRA",
-        "before": 2054.7,
-        "delta": -32.2
-      },
-      "away": {
-        "id": 8872,
-        "tla": "NOR",
-        "before": 1951.3,
-        "delta": 32.2
-      },
-      "score": "1-2",
-      "duration": "REGULAR"
-    },
-    {
-      "matchId": 537378,
-      "utcDate": "2026-07-06T01:00:00Z",
-      "stage": "LAST_16",
-      "home": {
-        "id": 769,
-        "tla": "MEX",
-        "before": 1999.1,
-        "delta": -21.1
-      },
-      "away": {
-        "id": 770,
-        "tla": "ENG",
-        "before": 2053.8,
-        "delta": 21.1
-      },
-      "score": "2-3",
-      "duration": "REGULAR"
-    }
-  ]
+  "recentUpdates": []
 }
