@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T19:26:29+00:00",
+  "generatedAt": "2026-07-06T04:05:51+00:00",
   "nSims": 10000,
   "seed": 26,
   "kBase": 50,
@@ -27,9 +27,9 @@
       "elo": 2183.0,
       "probR16": 1.0,
       "probQF": 1.0,
-      "probSF": 0.7927,
-      "probFinal": 0.562,
-      "probChampion": 0.3393
+      "probSF": 0.796,
+      "probFinal": 0.5497,
+      "probChampion": 0.339
     },
     {
       "id": 762,
@@ -40,10 +40,10 @@
       "eloCode": "AR",
       "elo": 2173.8,
       "probR16": 1.0,
-      "probQF": 0.9114,
-      "probSF": 0.6762,
-      "probFinal": 0.4549,
-      "probChampion": 0.2524
+      "probQF": 0.9139,
+      "probSF": 0.6736,
+      "probFinal": 0.4577,
+      "probChampion": 0.2553
     },
     {
       "id": 760,
@@ -54,24 +54,10 @@
       "eloCode": "ES",
       "elo": 2146.8,
       "probR16": 1.0,
-      "probQF": 0.6858,
-      "probSF": 0.5648,
-      "probFinal": 0.2884,
-      "probChampion": 0.1601
-    },
-    {
-      "id": 764,
-      "name": "Brazil",
-      "shortName": "Brazil",
-      "tla": "BRA",
-      "crest": "https://crests.football-data.org/764.svg",
-      "eloCode": "BR",
-      "elo": 2054.7,
-      "probR16": 1.0,
-      "probQF": 0.6602,
-      "probSF": 0.3706,
-      "probFinal": 0.1439,
-      "probChampion": 0.0589
+      "probQF": 0.6944,
+      "probSF": 0.577,
+      "probFinal": 0.2933,
+      "probChampion": 0.1564
     },
     {
       "id": 770,
@@ -80,12 +66,26 @@
       "tla": "ENG",
       "crest": "https://crests.football-data.org/770.svg",
       "eloCode": "EN",
-      "elo": 2053.8,
+      "elo": 2074.9,
       "probR16": 1.0,
-      "probQF": 0.584,
-      "probSF": 0.2997,
-      "probFinal": 0.1143,
-      "probChampion": 0.0488
+      "probQF": 1.0,
+      "probSF": 0.6233,
+      "probFinal": 0.2621,
+      "probChampion": 0.1138
+    },
+    {
+      "id": 8872,
+      "name": "Norway",
+      "shortName": "Norway",
+      "tla": "NOR",
+      "crest": "https://crests.football-data.org/813.svg",
+      "eloCode": "NO",
+      "elo": 1983.5,
+      "probR16": 1.0,
+      "probQF": 1.0,
+      "probSF": 0.3767,
+      "probFinal": 0.1098,
+      "probChampion": 0.0381
     },
     {
       "id": 818,
@@ -96,10 +96,10 @@
       "eloCode": "CO",
       "elo": 2022.1,
       "probR16": 1.0,
-      "probQF": 0.602,
-      "probSF": 0.2026,
-      "probFinal": 0.09,
-      "probChampion": 0.0336
+      "probQF": 0.6025,
+      "probSF": 0.2051,
+      "probFinal": 0.0935,
+      "probChampion": 0.035
     },
     {
       "id": 765,
@@ -110,10 +110,10 @@
       "eloCode": "PT",
       "elo": 2006.5,
       "probR16": 1.0,
-      "probQF": 0.3142,
-      "probSF": 0.2068,
-      "probFinal": 0.0742,
-      "probChampion": 0.0261
+      "probQF": 0.3056,
+      "probSF": 0.2021,
+      "probFinal": 0.0692,
+      "probChampion": 0.023
     },
     {
       "id": 815,
@@ -125,23 +125,9 @@
       "elo": 1948.4,
       "probR16": 1.0,
       "probQF": 1.0,
-      "probSF": 0.2073,
-      "probFinal": 0.0806,
-      "probChampion": 0.0241
-    },
-    {
-      "id": 769,
-      "name": "Mexico",
-      "shortName": "Mexico",
-      "tla": "MEX",
-      "crest": "https://crests.football-data.org/769.svg",
-      "eloCode": "MX",
-      "elo": 1999.1,
-      "probR16": 1.0,
-      "probQF": 0.416,
-      "probSF": 0.1954,
-      "probFinal": 0.0643,
-      "probChampion": 0.0216
+      "probSF": 0.204,
+      "probFinal": 0.0784,
+      "probChampion": 0.0218
     },
     {
       "id": 788,
@@ -152,24 +138,10 @@
       "eloCode": "CH",
       "elo": 1947.2,
       "probR16": 1.0,
-      "probQF": 0.398,
-      "probSF": 0.102,
-      "probFinal": 0.038,
-      "probChampion": 0.0116
-    },
-    {
-      "id": 8872,
-      "name": "Norway",
-      "shortName": "Norway",
-      "tla": "NOR",
-      "crest": "https://crests.football-data.org/813.svg",
-      "eloCode": "NO",
-      "elo": 1951.3,
-      "probR16": 1.0,
-      "probQF": 0.3398,
-      "probSF": 0.1343,
-      "probFinal": 0.0349,
-      "probChampion": 0.0115
+      "probQF": 0.3975,
+      "probSF": 0.1023,
+      "probFinal": 0.0355,
+      "probChampion": 0.0083
     },
     {
       "id": 805,
@@ -180,10 +152,10 @@
       "eloCode": "BE",
       "elo": 1899.3,
       "probR16": 1.0,
-      "probQF": 0.5558,
-      "probSF": 0.1386,
-      "probFinal": 0.0315,
-      "probChampion": 0.0076
+      "probQF": 0.5725,
+      "probSF": 0.1412,
+      "probFinal": 0.0322,
+      "probChampion": 0.0067
     },
     {
       "id": 771,
@@ -194,10 +166,10 @@
       "eloCode": "US",
       "elo": 1855.5,
       "probR16": 1.0,
-      "probQF": 0.4442,
-      "probSF": 0.0898,
-      "probFinal": 0.0194,
-      "probChampion": 0.0038
+      "probQF": 0.4275,
+      "probSF": 0.0797,
+      "probFinal": 0.0155,
+      "probChampion": 0.0024
     },
     {
       "id": 825,
@@ -208,10 +180,10 @@
       "eloCode": "EG",
       "elo": 1771.1,
       "probR16": 1.0,
-      "probQF": 0.0886,
-      "probSF": 0.0192,
-      "probFinal": 0.0036,
-      "probChampion": 0.0006
+      "probQF": 0.0861,
+      "probSF": 0.019,
+      "probFinal": 0.0031,
+      "probChampion": 0.0002
     },
     {
       "id": 761,
@@ -235,6 +207,34 @@
       "crest": "https://crests.football-data.org/canada.svg",
       "eloCode": "CA",
       "elo": 1742.2,
+      "probR16": 1.0,
+      "probQF": 0.0,
+      "probSF": 0.0,
+      "probFinal": 0.0,
+      "probChampion": 0.0
+    },
+    {
+      "id": 764,
+      "name": "Brazil",
+      "shortName": "Brazil",
+      "tla": "BRA",
+      "crest": "https://crests.football-data.org/764.svg",
+      "eloCode": "BR",
+      "elo": 2022.5,
+      "probR16": 1.0,
+      "probQF": 0.0,
+      "probSF": 0.0,
+      "probFinal": 0.0,
+      "probChampion": 0.0
+    },
+    {
+      "id": 769,
+      "name": "Mexico",
+      "shortName": "Mexico",
+      "tla": "MEX",
+      "crest": "https://crests.football-data.org/769.svg",
+      "eloCode": "MX",
+      "elo": 1978.0,
       "probR16": 1.0,
       "probQF": 0.0,
       "probSF": 0.0,
