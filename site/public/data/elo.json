@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T20:06:16+00:00",
+  "generatedAt": "2026-07-07T03:56:48+00:00",
   "kBase": 50,
   "teams": [
     {
@@ -27,7 +27,7 @@
       "tla": "ESP",
       "crest": "https://crests.football-data.org/760.svg",
       "eloCode": "ES",
-      "elo": 2146.8
+      "elo": 2162.2
     },
     {
       "id": 770,
@@ -63,7 +63,7 @@
       "tla": "POR",
       "crest": "https://crests.football-data.org/765.svg",
       "eloCode": "PT",
-      "elo": 2006.5
+      "elo": 1991.1
     },
     {
       "id": 8601,
@@ -117,7 +117,7 @@
       "tla": "BEL",
       "crest": "https://crests.football-data.org/805.svg",
       "eloCode": "BE",
-      "elo": 1899.3
+      "elo": 1937.6
     },
     {
       "id": 759,
@@ -147,15 +147,6 @@
       "elo": 1878.1
     },
     {
-      "id": 771,
-      "name": "United States",
-      "shortName": "USA",
-      "tla": "USA",
-      "crest": "https://crests.football-data.org/usa.svg",
-      "eloCode": "US",
-      "elo": 1855.5
-    },
-    {
       "id": 816,
       "name": "Austria",
       "shortName": "Austria",
@@ -172,6 +163,15 @@
       "crest": "https://crests.football-data.org/791.svg",
       "eloCode": "EC",
       "elo": 1824.1
+    },
+    {
+      "id": 771,
+      "name": "United States",
+      "shortName": "USA",
+      "tla": "USA",
+      "crest": "https://crests.football-data.org/usa.svg",
+      "eloCode": "US",
+      "elo": 1817.2
     },
     {
       "id": 803,
@@ -438,16 +438,16 @@
   "ratings": {
     "758": 1806.7,
     "759": 1889.8,
-    "760": 2146.8,
+    "760": 2162.2,
     "761": 1803.0,
     "762": 2173.8,
     "763": 1613.9,
     "764": 2022.5,
-    "765": 2006.5,
+    "765": 1991.1,
     "766": 1878.1,
     "769": 1978.0,
     "770": 2074.9,
-    "771": 1855.5,
+    "771": 1817.2,
     "772": 1696.6,
     "773": 2183.0,
     "774": 1581.2,
@@ -463,7 +463,7 @@
     "802": 1520.7,
     "803": 1812.6,
     "804": 1809.3,
-    "805": 1899.3,
+    "805": 1937.6,
     "815": 1948.4,
     "816": 1824.9,
     "818": 2022.1,
@@ -538,6 +538,8 @@
     537376,
     537377,
     537378,
+    537379,
+    537380,
     537391,
     537392,
     537393,
@@ -579,5 +581,44 @@
     537429,
     537430
   ],
-  "recentUpdates": []
+  "recentUpdates": [
+    {
+      "matchId": 537379,
+      "utcDate": "2026-07-06T19:00:00Z",
+      "stage": "LAST_16",
+      "home": {
+        "id": 765,
+        "tla": "POR",
+        "before": 2006.5,
+        "delta": -15.4
+      },
+      "away": {
+        "id": 760,
+        "tla": "ESP",
+        "before": 2146.8,
+        "delta": 15.4
+      },
+      "score": "0-1",
+      "duration": "REGULAR"
+    },
+    {
+      "matchId": 537380,
+      "utcDate": "2026-07-07T00:00:00Z",
+      "stage": "LAST_16",
+      "home": {
+        "id": 771,
+        "tla": "USA",
+        "before": 1855.5,
+        "delta": -38.3
+      },
+      "away": {
+        "id": 805,
+        "tla": "BEL",
+        "before": 1899.3,
+        "delta": 38.3
+      },
+      "score": "1-4",
+      "duration": "REGULAR"
+    }
+  ]
 }

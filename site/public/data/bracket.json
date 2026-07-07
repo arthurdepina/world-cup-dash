@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T20:06:16+00:00",
+  "generatedAt": "2026-07-07T03:56:47+00:00",
   "source": "football-data.org /v4/competitions/WC/matches",
   "competition": {
     "id": 2000,
@@ -12,7 +12,7 @@
     "count": 104,
     "first": "2026-06-11",
     "last": "2026-07-19",
-    "played": 92
+    "played": 94
   },
   "stages": [
     {
@@ -672,8 +672,8 @@
         {
           "id": 537379,
           "stage": "LAST_16",
-          "status": "PAUSED",
-          "played": false,
+          "status": "FINISHED",
+          "played": true,
           "utcDate": "2026-07-06T19:00:00Z",
           "home": {
             "id": 765,
@@ -691,11 +691,11 @@
           },
           "score": {
             "home": 0,
-            "away": 0,
+            "away": 1,
             "duration": "REGULAR",
-            "winner": "DRAW"
+            "winner": "AWAY_TEAM"
           },
-          "winnerId": null,
+          "winnerId": 760,
           "slot": 4,
           "homeParent": {
             "id": 537419,
@@ -709,8 +709,8 @@
         {
           "id": 537380,
           "stage": "LAST_16",
-          "status": "TIMED",
-          "played": false,
+          "status": "FINISHED",
+          "played": true,
           "utcDate": "2026-07-07T00:00:00Z",
           "home": {
             "id": 771,
@@ -727,12 +727,12 @@
             "crest": "https://crests.football-data.org/805.svg"
           },
           "score": {
-            "home": null,
-            "away": null,
+            "home": 1,
+            "away": 4,
             "duration": "REGULAR",
-            "winner": null
+            "winner": "AWAY_TEAM"
           },
-          "winnerId": null,
+          "winnerId": 805,
           "slot": 5,
           "homeParent": {
             "id": 537421,
