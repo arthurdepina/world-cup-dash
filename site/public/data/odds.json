@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T03:56:48+00:00",
+  "generatedAt": "2026-07-07T09:52:39+00:00",
   "nSims": 10000,
   "seed": 26,
   "kBase": 50,
@@ -12,7 +12,7 @@
   ],
   "topologyObserved": {
     "LAST_16": 8,
-    "QUARTER_FINALS": 2,
+    "QUARTER_FINALS": 3,
     "SEMI_FINALS": 0,
     "FINAL": 0
   },

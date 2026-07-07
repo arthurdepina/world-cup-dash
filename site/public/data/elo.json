@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T03:56:48+00:00",
+  "generatedAt": "2026-07-07T09:52:39+00:00",
   "kBase": 50,
   "teams": [
     {
@@ -581,44 +581,5 @@
     537429,
     537430
   ],
-  "recentUpdates": [
-    {
-      "matchId": 537379,
-      "utcDate": "2026-07-06T19:00:00Z",
-      "stage": "LAST_16",
-      "home": {
-        "id": 765,
-        "tla": "POR",
-        "before": 2006.5,
-        "delta": -15.4
-      },
-      "away": {
-        "id": 760,
-        "tla": "ESP",
-        "before": 2146.8,
-        "delta": 15.4
-      },
-      "score": "0-1",
-      "duration": "REGULAR"
-    },
-    {
-      "matchId": 537380,
-      "utcDate": "2026-07-07T00:00:00Z",
-      "stage": "LAST_16",
-      "home": {
-        "id": 771,
-        "tla": "USA",
-        "before": 1855.5,
-        "delta": -38.3
-      },
-      "away": {
-        "id": 805,
-        "tla": "BEL",
-        "before": 1899.3,
-        "delta": 38.3
-      },
-      "score": "1-4",
-      "duration": "REGULAR"
-    }
-  ]
+  "recentUpdates": []
 }

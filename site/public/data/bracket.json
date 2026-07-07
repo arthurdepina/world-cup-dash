@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T03:56:47+00:00",
+  "generatedAt": "2026-07-07T09:52:39+00:00",
   "source": "football-data.org /v4/competitions/WC/matches",
   "competition": {
     "id": 2000,
@@ -866,8 +866,20 @@
           "status": "TIMED",
           "played": false,
           "utcDate": "2026-07-10T19:00:00Z",
-          "home": null,
-          "away": null,
+          "home": {
+            "id": 760,
+            "name": "Spain",
+            "shortName": "Spain",
+            "tla": "ESP",
+            "crest": "https://crests.football-data.org/760.svg"
+          },
+          "away": {
+            "id": 805,
+            "name": "Belgium",
+            "shortName": "Belgium",
+            "tla": "BEL",
+            "crest": "https://crests.football-data.org/805.svg"
+          },
           "score": {
             "home": null,
             "away": null,
@@ -876,8 +888,14 @@
           },
           "winnerId": null,
           "slot": 1,
-          "homeParent": null,
-          "awayParent": null
+          "homeParent": {
+            "id": 537379,
+            "slot": 4
+          },
+          "awayParent": {
+            "id": 537380,
+            "slot": 5
+          }
         },
         {
           "id": 537385,
