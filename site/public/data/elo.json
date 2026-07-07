@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T14:50:23+00:00",
+  "generatedAt": "2026-07-07T20:04:53+00:00",
   "kBase": 50,
   "teams": [
     {
@@ -18,7 +18,7 @@
       "tla": "ARG",
       "crest": "https://crests.football-data.org/762.png",
       "eloCode": "AR",
-      "elo": 2173.8
+      "elo": 2178.3
     },
     {
       "id": 760,
@@ -219,15 +219,6 @@
       "elo": 1801.5
     },
     {
-      "id": 825,
-      "name": "Egypt",
-      "shortName": "Egypt",
-      "tla": "EGY",
-      "crest": "https://crests.football-data.org/825.svg",
-      "eloCode": "EG",
-      "elo": 1771.1
-    },
-    {
       "id": 778,
       "name": "Algeria",
       "shortName": "Algeria",
@@ -235,6 +226,15 @@
       "crest": "https://crests.football-data.org/algeria.svg",
       "eloCode": "DZ",
       "elo": 1769.0
+    },
+    {
+      "id": 825,
+      "name": "Egypt",
+      "shortName": "Egypt",
+      "tla": "EGY",
+      "crest": "https://crests.football-data.org/825.svg",
+      "eloCode": "EG",
+      "elo": 1766.6
     },
     {
       "id": 840,
@@ -440,7 +440,7 @@
     "759": 1889.8,
     "760": 2162.2,
     "761": 1803.0,
-    "762": 2173.8,
+    "762": 2178.3,
     "763": 1613.9,
     "764": 2022.5,
     "765": 1991.1,
@@ -467,7 +467,7 @@
     "815": 1948.4,
     "816": 1824.9,
     "818": 2022.1,
-    "825": 1771.1,
+    "825": 1766.6,
     "828": 1742.2,
     "836": 1495.6,
     "840": 1758.9,
@@ -540,6 +540,7 @@
     537378,
     537379,
     537380,
+    537381,
     537391,
     537392,
     537393,
@@ -581,5 +582,25 @@
     537429,
     537430
   ],
-  "recentUpdates": []
+  "recentUpdates": [
+    {
+      "matchId": 537381,
+      "utcDate": "2026-07-07T16:00:00Z",
+      "stage": "LAST_16",
+      "home": {
+        "id": 762,
+        "tla": "ARG",
+        "before": 2173.8,
+        "delta": 4.5
+      },
+      "away": {
+        "id": 825,
+        "tla": "EGY",
+        "before": 1771.1,
+        "delta": -4.5
+      },
+      "score": "3-2",
+      "duration": "REGULAR"
+    }
+  ]
 }
