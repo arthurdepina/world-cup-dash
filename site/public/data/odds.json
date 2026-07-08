@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T20:04:54+00:00",
+  "generatedAt": "2026-07-08T08:37:40+00:00",
   "nSims": 10000,
   "seed": 26,
   "kBase": 50,
@@ -12,7 +12,7 @@
   ],
   "topologyObserved": {
     "LAST_16": 8,
-    "QUARTER_FINALS": 3,
+    "QUARTER_FINALS": 4,
     "SEMI_FINALS": 0,
     "FINAL": 0
   },
@@ -27,9 +27,9 @@
       "elo": 2183.0,
       "probR16": 1.0,
       "probQF": 1.0,
-      "probSF": 0.7977,
-      "probFinal": 0.499,
-      "probChampion": 0.3145
+      "probSF": 0.7981,
+      "probFinal": 0.5099,
+      "probChampion": 0.3149
     },
     {
       "id": 762,
@@ -41,9 +41,9 @@
       "elo": 2178.3,
       "probR16": 1.0,
       "probQF": 1.0,
-      "probSF": 0.7423,
-      "probFinal": 0.5035,
-      "probChampion": 0.2665
+      "probSF": 0.7877,
+      "probFinal": 0.5382,
+      "probChampion": 0.2886
     },
     {
       "id": 760,
@@ -55,9 +55,9 @@
       "elo": 2162.2,
       "probR16": 1.0,
       "probQF": 1.0,
-      "probSF": 0.7797,
-      "probFinal": 0.3894,
-      "probChampion": 0.2195
+      "probSF": 0.7909,
+      "probFinal": 0.3827,
+      "probChampion": 0.206
     },
     {
       "id": 770,
@@ -69,9 +69,9 @@
       "elo": 2074.9,
       "probR16": 1.0,
       "probQF": 1.0,
-      "probSF": 0.6289,
-      "probFinal": 0.2731,
-      "probChampion": 0.1031
+      "probSF": 0.6365,
+      "probFinal": 0.2691,
+      "probChampion": 0.1055
     },
     {
       "id": 8872,
@@ -83,23 +83,23 @@
       "elo": 1983.5,
       "probR16": 1.0,
       "probQF": 1.0,
-      "probSF": 0.3711,
-      "probFinal": 0.1133,
-      "probChampion": 0.0314
+      "probSF": 0.3635,
+      "probFinal": 0.1176,
+      "probChampion": 0.0327
     },
     {
-      "id": 818,
-      "name": "Colombia",
-      "shortName": "Colombia",
-      "tla": "COL",
-      "crest": "https://crests.football-data.org/818.svg",
-      "eloCode": "CO",
-      "elo": 2022.1,
+      "id": 788,
+      "name": "Switzerland",
+      "shortName": "Switzerland",
+      "tla": "SUI",
+      "crest": "https://crests.football-data.org/788.svg",
+      "eloCode": "CH",
+      "elo": 1952.5,
       "probR16": 1.0,
-      "probQF": 0.6086,
-      "probSF": 0.1751,
-      "probFinal": 0.082,
-      "probChampion": 0.0256
+      "probQF": 1.0,
+      "probSF": 0.2123,
+      "probFinal": 0.0751,
+      "probChampion": 0.0195
     },
     {
       "id": 815,
@@ -111,9 +111,9 @@
       "elo": 1948.4,
       "probR16": 1.0,
       "probQF": 1.0,
-      "probSF": 0.2023,
-      "probFinal": 0.0589,
-      "probChampion": 0.0172
+      "probSF": 0.2019,
+      "probFinal": 0.0573,
+      "probChampion": 0.0167
     },
     {
       "id": 805,
@@ -125,23 +125,9 @@
       "elo": 1937.6,
       "probR16": 1.0,
       "probQF": 1.0,
-      "probSF": 0.2203,
-      "probFinal": 0.0527,
-      "probChampion": 0.0158
-    },
-    {
-      "id": 788,
-      "name": "Switzerland",
-      "shortName": "Switzerland",
-      "tla": "SUI",
-      "crest": "https://crests.football-data.org/788.svg",
-      "eloCode": "CH",
-      "elo": 1947.2,
-      "probR16": 1.0,
-      "probQF": 0.3914,
-      "probSF": 0.0826,
-      "probFinal": 0.0281,
-      "probChampion": 0.0064
+      "probSF": 0.2091,
+      "probFinal": 0.0501,
+      "probChampion": 0.0161
     },
     {
       "id": 761,
@@ -235,6 +221,20 @@
       "crest": "https://crests.football-data.org/825.svg",
       "eloCode": "EG",
       "elo": 1766.6,
+      "probR16": 1.0,
+      "probQF": 0.0,
+      "probSF": 0.0,
+      "probFinal": 0.0,
+      "probChampion": 0.0
+    },
+    {
+      "id": 818,
+      "name": "Colombia",
+      "shortName": "Colombia",
+      "tla": "COL",
+      "crest": "https://crests.football-data.org/818.svg",
+      "eloCode": "CO",
+      "elo": 2016.8,
       "probR16": 1.0,
       "probQF": 0.0,
       "probSF": 0.0,

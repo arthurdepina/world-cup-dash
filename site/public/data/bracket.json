@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T20:04:53+00:00",
+  "generatedAt": "2026-07-08T08:37:39+00:00",
   "source": "football-data.org /v4/competitions/WC/matches",
   "competition": {
     "id": 2000,
@@ -12,7 +12,7 @@
     "count": 104,
     "first": "2026-06-11",
     "last": "2026-07-19",
-    "played": 95
+    "played": 96
   },
   "stages": [
     {
@@ -783,8 +783,8 @@
         {
           "id": 537382,
           "stage": "LAST_16",
-          "status": "TIMED",
-          "played": false,
+          "status": "FINISHED",
+          "played": true,
           "utcDate": "2026-07-07T20:00:00Z",
           "home": {
             "id": 788,
@@ -801,12 +801,12 @@
             "crest": "https://crests.football-data.org/818.svg"
           },
           "score": {
-            "home": null,
-            "away": null,
-            "duration": "REGULAR",
-            "winner": null
+            "home": 4,
+            "away": 3,
+            "duration": "PENALTY_SHOOTOUT",
+            "winner": "HOME_TEAM"
           },
-          "winnerId": null,
+          "winnerId": 788,
           "slot": 7,
           "homeParent": {
             "id": 537429,
@@ -940,8 +940,20 @@
           "status": "TIMED",
           "played": false,
           "utcDate": "2026-07-12T01:00:00Z",
-          "home": null,
-          "away": null,
+          "home": {
+            "id": 762,
+            "name": "Argentina",
+            "shortName": "Argentina",
+            "tla": "ARG",
+            "crest": "https://crests.football-data.org/762.png"
+          },
+          "away": {
+            "id": 788,
+            "name": "Switzerland",
+            "shortName": "Switzerland",
+            "tla": "SUI",
+            "crest": "https://crests.football-data.org/788.svg"
+          },
           "score": {
             "home": null,
             "away": null,
@@ -950,8 +962,14 @@
           },
           "winnerId": null,
           "slot": 3,
-          "homeParent": null,
-          "awayParent": null
+          "homeParent": {
+            "id": 537381,
+            "slot": 6
+          },
+          "awayParent": {
+            "id": 537382,
+            "slot": 7
+          }
         }
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T20:04:53+00:00",
+  "generatedAt": "2026-07-08T08:37:39+00:00",
   "kBase": 50,
   "teams": [
     {
@@ -54,7 +54,7 @@
       "tla": "COL",
       "crest": "https://crests.football-data.org/818.svg",
       "eloCode": "CO",
-      "elo": 2022.1
+      "elo": 2016.8
     },
     {
       "id": 765,
@@ -93,6 +93,15 @@
       "elo": 1978.0
     },
     {
+      "id": 788,
+      "name": "Switzerland",
+      "shortName": "Switzerland",
+      "tla": "SUI",
+      "crest": "https://crests.football-data.org/788.svg",
+      "eloCode": "CH",
+      "elo": 1952.5
+    },
+    {
       "id": 815,
       "name": "Morocco",
       "shortName": "Morocco",
@@ -100,15 +109,6 @@
       "crest": "https://crests.football-data.org/morocco.svg",
       "eloCode": "MA",
       "elo": 1948.4
-    },
-    {
-      "id": 788,
-      "name": "Switzerland",
-      "shortName": "Switzerland",
-      "tla": "SUI",
-      "crest": "https://crests.football-data.org/788.svg",
-      "eloCode": "CH",
-      "elo": 1947.2
     },
     {
       "id": 805,
@@ -454,7 +454,7 @@
     "778": 1769.0,
     "779": 1801.5,
     "783": 1518.8,
-    "788": 1947.2,
+    "788": 1952.5,
     "791": 1824.1,
     "792": 1739.3,
     "798": 1638.2,
@@ -466,7 +466,7 @@
     "805": 1937.6,
     "815": 1948.4,
     "816": 1824.9,
-    "818": 2022.1,
+    "818": 2016.8,
     "825": 1766.6,
     "828": 1742.2,
     "836": 1495.6,
@@ -541,6 +541,7 @@
     537379,
     537380,
     537381,
+    537382,
     537391,
     537392,
     537393,
@@ -584,23 +585,23 @@
   ],
   "recentUpdates": [
     {
-      "matchId": 537381,
-      "utcDate": "2026-07-07T16:00:00Z",
+      "matchId": 537382,
+      "utcDate": "2026-07-07T20:00:00Z",
       "stage": "LAST_16",
       "home": {
-        "id": 762,
-        "tla": "ARG",
-        "before": 2173.8,
-        "delta": 4.5
+        "id": 788,
+        "tla": "SUI",
+        "before": 1947.2,
+        "delta": 5.3
       },
       "away": {
-        "id": 825,
-        "tla": "EGY",
-        "before": 1771.1,
-        "delta": -4.5
+        "id": 818,
+        "tla": "COL",
+        "before": 2022.1,
+        "delta": -5.3
       },
-      "score": "3-2",
-      "duration": "REGULAR"
+      "score": "4-3",
+      "duration": "PENALTY_SHOOTOUT"
     }
   ]
 }
