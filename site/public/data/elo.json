@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T08:37:39+00:00",
+  "generatedAt": "2026-07-08T14:28:11+00:00",
   "kBase": 50,
   "teams": [
     {
@@ -583,25 +583,5 @@
     537429,
     537430
   ],
-  "recentUpdates": [
-    {
-      "matchId": 537382,
-      "utcDate": "2026-07-07T20:00:00Z",
-      "stage": "LAST_16",
-      "home": {
-        "id": 788,
-        "tla": "SUI",
-        "before": 1947.2,
-        "delta": 5.3
-      },
-      "away": {
-        "id": 818,
-        "tla": "COL",
-        "before": 2022.1,
-        "delta": -5.3
-      },
-      "score": "4-3",
-      "duration": "PENALTY_SHOOTOUT"
-    }
-  ]
+  "recentUpdates": []
 }
