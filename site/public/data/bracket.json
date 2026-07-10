@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T03:51:40+00:00",
+  "generatedAt": "2026-07-10T09:46:04+00:00",
   "source": "football-data.org /v4/competitions/WC/matches",
   "competition": {
     "id": 2000,
@@ -983,7 +983,13 @@
           "status": "TIMED",
           "played": false,
           "utcDate": "2026-07-14T19:00:00Z",
-          "home": null,
+          "home": {
+            "id": 773,
+            "name": "France",
+            "shortName": "France",
+            "tla": "FRA",
+            "crest": "https://crests.football-data.org/773.svg"
+          },
           "away": null,
           "score": {
             "home": null,
@@ -993,7 +999,10 @@
           },
           "winnerId": null,
           "slot": 0,
-          "homeParent": null,
+          "homeParent": {
+            "id": 537383,
+            "slot": 0
+          },
           "awayParent": null
         },
         {

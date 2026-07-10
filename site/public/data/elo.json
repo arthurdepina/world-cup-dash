@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T03:51:40+00:00",
+  "generatedAt": "2026-07-10T09:46:04+00:00",
   "kBase": 50,
   "teams": [
     {
@@ -584,25 +584,5 @@
     537429,
     537430
   ],
-  "recentUpdates": [
-    {
-      "matchId": 537383,
-      "utcDate": "2026-07-09T20:00:00Z",
-      "stage": "QUARTER_FINALS",
-      "home": {
-        "id": 773,
-        "tla": "FRA",
-        "before": 2183.0,
-        "delta": 15.4
-      },
-      "away": {
-        "id": 815,
-        "tla": "MAR",
-        "before": 1948.4,
-        "delta": -15.4
-      },
-      "score": "2-0",
-      "duration": "REGULAR"
-    }
-  ]
+  "recentUpdates": []
 }
