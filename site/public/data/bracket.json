@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T14:40:35+00:00",
+  "generatedAt": "2026-07-10T19:41:09+00:00",
   "source": "football-data.org /v4/competitions/WC/matches",
   "competition": {
     "id": 2000,
@@ -863,7 +863,7 @@
         {
           "id": 537384,
           "stage": "QUARTER_FINALS",
-          "status": "TIMED",
+          "status": "IN_PLAY",
           "played": false,
           "utcDate": "2026-07-10T19:00:00Z",
           "home": {
@@ -881,12 +881,12 @@
             "crest": "https://crests.football-data.org/805.svg"
           },
           "score": {
-            "home": null,
-            "away": null,
+            "home": 1,
+            "away": 0,
             "duration": "REGULAR",
-            "winner": null
+            "winner": "HOME_TEAM"
           },
-          "winnerId": null,
+          "winnerId": 760,
           "slot": 1,
           "homeParent": {
             "id": 537379,
