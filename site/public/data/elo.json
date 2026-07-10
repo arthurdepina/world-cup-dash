@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T19:54:47+00:00",
+  "generatedAt": "2026-07-10T03:51:40+00:00",
   "kBase": 50,
   "teams": [
     {
@@ -9,7 +9,7 @@
       "tla": "FRA",
       "crest": "https://crests.football-data.org/773.svg",
       "eloCode": "FR",
-      "elo": 2183.0
+      "elo": 2198.4
     },
     {
       "id": 762,
@@ -102,15 +102,6 @@
       "elo": 1952.5
     },
     {
-      "id": 815,
-      "name": "Morocco",
-      "shortName": "Morocco",
-      "tla": "MAR",
-      "crest": "https://crests.football-data.org/morocco.svg",
-      "eloCode": "MA",
-      "elo": 1948.4
-    },
-    {
       "id": 805,
       "name": "Belgium",
       "shortName": "Belgium",
@@ -118,6 +109,15 @@
       "crest": "https://crests.football-data.org/805.svg",
       "eloCode": "BE",
       "elo": 1937.6
+    },
+    {
+      "id": 815,
+      "name": "Morocco",
+      "shortName": "Morocco",
+      "tla": "MAR",
+      "crest": "https://crests.football-data.org/morocco.svg",
+      "eloCode": "MA",
+      "elo": 1933.0
     },
     {
       "id": 759,
@@ -449,7 +449,7 @@
     "770": 2074.9,
     "771": 1817.2,
     "772": 1696.6,
-    "773": 2183.0,
+    "773": 2198.4,
     "774": 1581.2,
     "778": 1769.0,
     "779": 1801.5,
@@ -464,7 +464,7 @@
     "803": 1812.6,
     "804": 1809.3,
     "805": 1937.6,
-    "815": 1948.4,
+    "815": 1933.0,
     "816": 1824.9,
     "818": 2016.8,
     "825": 1766.6,
@@ -542,6 +542,7 @@
     537380,
     537381,
     537382,
+    537383,
     537391,
     537392,
     537393,
@@ -583,5 +584,25 @@
     537429,
     537430
   ],
-  "recentUpdates": []
+  "recentUpdates": [
+    {
+      "matchId": 537383,
+      "utcDate": "2026-07-09T20:00:00Z",
+      "stage": "QUARTER_FINALS",
+      "home": {
+        "id": 773,
+        "tla": "FRA",
+        "before": 2183.0,
+        "delta": 15.4
+      },
+      "away": {
+        "id": 815,
+        "tla": "MAR",
+        "before": 1948.4,
+        "delta": -15.4
+      },
+      "score": "2-0",
+      "duration": "REGULAR"
+    }
+  ]
 }
