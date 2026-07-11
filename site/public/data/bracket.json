@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T03:18:16+00:00",
+  "generatedAt": "2026-07-11T08:04:34+00:00",
   "source": "football-data.org /v4/competitions/WC/matches",
   "competition": {
     "id": 2000,
@@ -990,7 +990,13 @@
             "tla": "FRA",
             "crest": "https://crests.football-data.org/773.svg"
           },
-          "away": null,
+          "away": {
+            "id": 760,
+            "name": "Spain",
+            "shortName": "Spain",
+            "tla": "ESP",
+            "crest": "https://crests.football-data.org/760.svg"
+          },
           "score": {
             "home": null,
             "away": null,
@@ -1003,7 +1009,10 @@
             "id": 537383,
             "slot": 0
           },
-          "awayParent": null
+          "awayParent": {
+            "id": 537384,
+            "slot": 1
+          }
         },
         {
           "id": 537388,

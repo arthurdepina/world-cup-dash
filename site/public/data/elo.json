@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T03:18:16+00:00",
+  "generatedAt": "2026-07-11T08:04:34+00:00",
   "kBase": 50,
   "teams": [
     {
@@ -585,25 +585,5 @@
     537429,
     537430
   ],
-  "recentUpdates": [
-    {
-      "matchId": 537384,
-      "utcDate": "2026-07-10T19:00:00Z",
-      "stage": "QUARTER_FINALS",
-      "home": {
-        "id": 760,
-        "tla": "ESP",
-        "before": 2162.2,
-        "delta": 10.8
-      },
-      "away": {
-        "id": 805,
-        "tla": "BEL",
-        "before": 1937.6,
-        "delta": -10.8
-      },
-      "score": "2-1",
-      "duration": "REGULAR"
-    }
-  ]
+  "recentUpdates": []
 }
