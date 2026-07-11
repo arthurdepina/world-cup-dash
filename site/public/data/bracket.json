@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T19:41:09+00:00",
+  "generatedAt": "2026-07-11T03:18:16+00:00",
   "source": "football-data.org /v4/competitions/WC/matches",
   "competition": {
     "id": 2000,
@@ -12,7 +12,7 @@
     "count": 104,
     "first": "2026-06-11",
     "last": "2026-07-19",
-    "played": 97
+    "played": 98
   },
   "stages": [
     {
@@ -863,8 +863,8 @@
         {
           "id": 537384,
           "stage": "QUARTER_FINALS",
-          "status": "IN_PLAY",
-          "played": false,
+          "status": "FINISHED",
+          "played": true,
           "utcDate": "2026-07-10T19:00:00Z",
           "home": {
             "id": 760,
@@ -881,8 +881,8 @@
             "crest": "https://crests.football-data.org/805.svg"
           },
           "score": {
-            "home": 1,
-            "away": 0,
+            "home": 2,
+            "away": 1,
             "duration": "REGULAR",
             "winner": "HOME_TEAM"
           },

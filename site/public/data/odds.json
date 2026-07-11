@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T19:41:09+00:00",
+  "generatedAt": "2026-07-11T03:18:16+00:00",
   "nSims": 10000,
   "seed": 26,
   "kBase": 50,
@@ -28,8 +28,8 @@
       "probR16": 1.0,
       "probQF": 1.0,
       "probSF": 1.0,
-      "probFinal": 0.6021,
-      "probChampion": 0.3878
+      "probFinal": 0.5897,
+      "probChampion": 0.3833
     },
     {
       "id": 762,
@@ -41,9 +41,9 @@
       "elo": 2178.3,
       "probR16": 1.0,
       "probQF": 1.0,
-      "probSF": 0.7906,
-      "probFinal": 0.545,
-      "probChampion": 0.2618
+      "probSF": 0.7922,
+      "probFinal": 0.5424,
+      "probChampion": 0.259
     },
     {
       "id": 760,
@@ -52,12 +52,12 @@
       "tla": "ESP",
       "crest": "https://crests.football-data.org/760.svg",
       "eloCode": "ES",
-      "elo": 2162.2,
+      "elo": 2173.0,
       "probR16": 1.0,
       "probQF": 1.0,
-      "probSF": 0.7832,
-      "probFinal": 0.359,
-      "probChampion": 0.1966
+      "probSF": 1.0,
+      "probFinal": 0.4103,
+      "probChampion": 0.2261
     },
     {
       "id": 770,
@@ -69,9 +69,9 @@
       "elo": 2074.9,
       "probR16": 1.0,
       "probQF": 1.0,
-      "probSF": 0.6272,
-      "probFinal": 0.2584,
-      "probChampion": 0.0937
+      "probSF": 0.6256,
+      "probFinal": 0.2649,
+      "probChampion": 0.0899
     },
     {
       "id": 8872,
@@ -83,9 +83,9 @@
       "elo": 1983.5,
       "probR16": 1.0,
       "probQF": 1.0,
-      "probSF": 0.3728,
-      "probFinal": 0.1224,
-      "probChampion": 0.032
+      "probSF": 0.3744,
+      "probFinal": 0.1205,
+      "probChampion": 0.0272
     },
     {
       "id": 788,
@@ -97,23 +97,9 @@
       "elo": 1952.5,
       "probR16": 1.0,
       "probQF": 1.0,
-      "probSF": 0.2094,
-      "probFinal": 0.0742,
-      "probChampion": 0.0181
-    },
-    {
-      "id": 805,
-      "name": "Belgium",
-      "shortName": "Belgium",
-      "tla": "BEL",
-      "crest": "https://crests.football-data.org/805.svg",
-      "eloCode": "BE",
-      "elo": 1937.6,
-      "probR16": 1.0,
-      "probQF": 1.0,
-      "probSF": 0.2168,
-      "probFinal": 0.0389,
-      "probChampion": 0.01
+      "probSF": 0.2078,
+      "probFinal": 0.0722,
+      "probChampion": 0.0145
     },
     {
       "id": 761,
@@ -209,6 +195,20 @@
       "elo": 1817.2,
       "probR16": 1.0,
       "probQF": 0.0,
+      "probSF": 0.0,
+      "probFinal": 0.0,
+      "probChampion": 0.0
+    },
+    {
+      "id": 805,
+      "name": "Belgium",
+      "shortName": "Belgium",
+      "tla": "BEL",
+      "crest": "https://crests.football-data.org/805.svg",
+      "eloCode": "BE",
+      "elo": 1926.8,
+      "probR16": 1.0,
+      "probQF": 1.0,
       "probSF": 0.0,
       "probFinal": 0.0,
       "probChampion": 0.0
