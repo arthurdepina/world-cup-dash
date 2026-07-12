@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T08:25:56+00:00",
+  "generatedAt": "2026-07-12T13:39:46+00:00",
   "kBase": 50,
   "teams": [
     {
@@ -587,25 +587,5 @@
     537429,
     537430
   ],
-  "recentUpdates": [
-    {
-      "matchId": 537386,
-      "utcDate": "2026-07-12T01:00:00Z",
-      "stage": "QUARTER_FINALS",
-      "home": {
-        "id": 762,
-        "tla": "ARG",
-        "before": 2178.3,
-        "delta": 16.1
-      },
-      "away": {
-        "id": 788,
-        "tla": "SUI",
-        "before": 1952.5,
-        "delta": -16.1
-      },
-      "score": "3-1",
-      "duration": "EXTRA_TIME"
-    }
-  ]
+  "recentUpdates": []
 }
