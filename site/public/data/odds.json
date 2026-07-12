@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T03:29:46+00:00",
+  "generatedAt": "2026-07-12T08:25:56+00:00",
   "nSims": 10000,
   "seed": 26,
   "kBase": 50,
@@ -13,7 +13,7 @@
   "topologyObserved": {
     "LAST_16": 8,
     "QUARTER_FINALS": 4,
-    "SEMI_FINALS": 1,
+    "SEMI_FINALS": 2,
     "FINAL": 0
   },
   "teams": [
@@ -28,8 +28,8 @@
       "probR16": 1.0,
       "probQF": 1.0,
       "probSF": 1.0,
-      "probFinal": 0.5897,
-      "probChampion": 0.37
+      "probFinal": 0.5881,
+      "probChampion": 0.3442
     },
     {
       "id": 762,
@@ -38,12 +38,12 @@
       "tla": "ARG",
       "crest": "https://crests.football-data.org/762.png",
       "eloCode": "AR",
-      "elo": 2178.3,
+      "elo": 2194.4,
       "probR16": 1.0,
       "probQF": 1.0,
-      "probSF": 0.7922,
-      "probFinal": 0.4942,
-      "probChampion": 0.237
+      "probSF": 1.0,
+      "probFinal": 0.6414,
+      "probChampion": 0.3188
     },
     {
       "id": 760,
@@ -56,8 +56,8 @@
       "probR16": 1.0,
       "probQF": 1.0,
       "probSF": 1.0,
-      "probFinal": 0.4103,
-      "probChampion": 0.2199
+      "probFinal": 0.4119,
+      "probChampion": 0.2013
     },
     {
       "id": 770,
@@ -70,22 +70,8 @@
       "probR16": 1.0,
       "probQF": 1.0,
       "probSF": 1.0,
-      "probFinal": 0.4443,
-      "probChampion": 0.1604
-    },
-    {
-      "id": 788,
-      "name": "Switzerland",
-      "shortName": "Switzerland",
-      "tla": "SUI",
-      "crest": "https://crests.football-data.org/788.svg",
-      "eloCode": "CH",
-      "elo": 1952.5,
-      "probR16": 1.0,
-      "probQF": 1.0,
-      "probSF": 0.2078,
-      "probFinal": 0.0615,
-      "probChampion": 0.0127
+      "probFinal": 0.3586,
+      "probChampion": 0.1357
     },
     {
       "id": 761,
@@ -223,6 +209,20 @@
       "elo": 1766.6,
       "probR16": 1.0,
       "probQF": 0.0,
+      "probSF": 0.0,
+      "probFinal": 0.0,
+      "probChampion": 0.0
+    },
+    {
+      "id": 788,
+      "name": "Switzerland",
+      "shortName": "Switzerland",
+      "tla": "SUI",
+      "crest": "https://crests.football-data.org/788.svg",
+      "eloCode": "CH",
+      "elo": 1936.4,
+      "probR16": 1.0,
+      "probQF": 1.0,
       "probSF": 0.0,
       "probFinal": 0.0,
       "probChampion": 0.0
