@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T02:53:02+00:00",
+  "generatedAt": "2026-07-15T08:23:59+00:00",
   "source": "football-data.org /v4/competitions/WC/matches",
   "competition": {
     "id": 2000,
@@ -1063,7 +1063,13 @@
           "status": "TIMED",
           "played": false,
           "utcDate": "2026-07-18T21:00:00Z",
-          "home": null,
+          "home": {
+            "id": 773,
+            "name": "France",
+            "shortName": "France",
+            "tla": "FRA",
+            "crest": "https://crests.football-data.org/773.svg"
+          },
           "away": null,
           "score": {
             "home": null,
@@ -1073,7 +1079,10 @@
           },
           "winnerId": null,
           "slot": 0,
-          "homeParent": null,
+          "homeParent": {
+            "id": 537387,
+            "slot": 0
+          },
           "awayParent": null
         }
       ]
@@ -1088,7 +1097,13 @@
           "status": "TIMED",
           "played": false,
           "utcDate": "2026-07-19T19:00:00Z",
-          "home": null,
+          "home": {
+            "id": 760,
+            "name": "Spain",
+            "shortName": "Spain",
+            "tla": "ESP",
+            "crest": "https://crests.football-data.org/760.svg"
+          },
           "away": null,
           "score": {
             "home": null,
@@ -1098,7 +1113,10 @@
           },
           "winnerId": null,
           "slot": 0,
-          "homeParent": null,
+          "homeParent": {
+            "id": 537387,
+            "slot": 0
+          },
           "awayParent": null
         }
       ]
