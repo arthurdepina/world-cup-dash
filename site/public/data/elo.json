@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-07-14T19:27:30+00:00",
+  "generatedAt": "2026-07-15T02:53:02+00:00",
   "kBase": 50,
   "teams": [
     {
-      "id": 773,
-      "name": "France",
-      "shortName": "France",
-      "tla": "FRA",
-      "crest": "https://crests.football-data.org/773.svg",
-      "eloCode": "FR",
-      "elo": 2198.4
+      "id": 760,
+      "name": "Spain",
+      "shortName": "Spain",
+      "tla": "ESP",
+      "crest": "https://crests.football-data.org/760.svg",
+      "eloCode": "ES",
+      "elo": 2213.2
     },
     {
       "id": 762,
@@ -21,13 +21,13 @@
       "elo": 2194.4
     },
     {
-      "id": 760,
-      "name": "Spain",
-      "shortName": "Spain",
-      "tla": "ESP",
-      "crest": "https://crests.football-data.org/760.svg",
-      "eloCode": "ES",
-      "elo": 2173.0
+      "id": 773,
+      "name": "France",
+      "shortName": "France",
+      "tla": "FRA",
+      "crest": "https://crests.football-data.org/773.svg",
+      "eloCode": "FR",
+      "elo": 2158.2
     },
     {
       "id": 770,
@@ -438,7 +438,7 @@
   "ratings": {
     "758": 1806.7,
     "759": 1889.8,
-    "760": 2173.0,
+    "760": 2213.2,
     "761": 1803.0,
     "762": 2194.4,
     "763": 1613.9,
@@ -449,7 +449,7 @@
     "770": 2093.5,
     "771": 1817.2,
     "772": 1696.6,
-    "773": 2198.4,
+    "773": 2158.2,
     "774": 1581.2,
     "778": 1769.0,
     "779": 1801.5,
@@ -546,6 +546,7 @@
     537384,
     537385,
     537386,
+    537387,
     537391,
     537392,
     537393,
@@ -587,5 +588,25 @@
     537429,
     537430
   ],
-  "recentUpdates": []
+  "recentUpdates": [
+    {
+      "matchId": 537387,
+      "utcDate": "2026-07-14T19:00:00Z",
+      "stage": "SEMI_FINALS",
+      "home": {
+        "id": 773,
+        "tla": "FRA",
+        "before": 2198.4,
+        "delta": -40.2
+      },
+      "away": {
+        "id": 760,
+        "tla": "ESP",
+        "before": 2173.0,
+        "delta": 40.2
+      },
+      "score": "0-2",
+      "duration": "REGULAR"
+    }
+  ]
 }

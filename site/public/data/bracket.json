@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T19:27:30+00:00",
+  "generatedAt": "2026-07-15T02:53:02+00:00",
   "source": "football-data.org /v4/competitions/WC/matches",
   "competition": {
     "id": 2000,
@@ -12,7 +12,7 @@
     "count": 104,
     "first": "2026-06-11",
     "last": "2026-07-19",
-    "played": 100
+    "played": 101
   },
   "stages": [
     {
@@ -980,8 +980,8 @@
         {
           "id": 537387,
           "stage": "SEMI_FINALS",
-          "status": "IN_PLAY",
-          "played": false,
+          "status": "FINISHED",
+          "played": true,
           "utcDate": "2026-07-14T19:00:00Z",
           "home": {
             "id": 773,
@@ -999,7 +999,7 @@
           },
           "score": {
             "home": 0,
-            "away": 1,
+            "away": 2,
             "duration": "REGULAR",
             "winner": "AWAY_TEAM"
           },
