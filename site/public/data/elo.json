@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T03:14:19+00:00",
+  "generatedAt": "2026-07-16T08:23:11+00:00",
   "kBase": 50,
   "teams": [
     {
@@ -589,25 +589,5 @@
     537429,
     537430
   ],
-  "recentUpdates": [
-    {
-      "matchId": 537388,
-      "utcDate": "2026-07-15T19:00:00Z",
-      "stage": "SEMI_FINALS",
-      "home": {
-        "id": 770,
-        "tla": "ENG",
-        "before": 2093.5,
-        "delta": -17.9
-      },
-      "away": {
-        "id": 762,
-        "tla": "ARG",
-        "before": 2194.4,
-        "delta": 17.9
-      },
-      "score": "1-2",
-      "duration": "REGULAR"
-    }
-  ]
+  "recentUpdates": []
 }

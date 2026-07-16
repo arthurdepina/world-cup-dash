@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T03:14:19+00:00",
+  "generatedAt": "2026-07-16T08:23:11+00:00",
   "nSims": 10000,
   "seed": 26,
   "kBase": 50,
@@ -14,7 +14,7 @@
     "LAST_16": 8,
     "QUARTER_FINALS": 4,
     "SEMI_FINALS": 2,
-    "FINAL": 0
+    "FINAL": 1
   },
   "teams": [
     {
