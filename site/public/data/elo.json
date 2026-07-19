@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T19:12:07+00:00",
+  "generatedAt": "2026-07-19T03:26:00+00:00",
   "kBase": 50,
   "teams": [
     {
@@ -21,22 +21,22 @@
       "elo": 2212.3
     },
     {
-      "id": 773,
-      "name": "France",
-      "shortName": "France",
-      "tla": "FRA",
-      "crest": "https://crests.football-data.org/773.svg",
-      "eloCode": "FR",
-      "elo": 2158.2
-    },
-    {
       "id": 770,
       "name": "England",
       "shortName": "England",
       "tla": "ENG",
       "crest": "https://crests.football-data.org/770.svg",
       "eloCode": "EN",
-      "elo": 2075.6
+      "elo": 2121.9
+    },
+    {
+      "id": 773,
+      "name": "France",
+      "shortName": "France",
+      "tla": "FRA",
+      "crest": "https://crests.football-data.org/773.svg",
+      "eloCode": "FR",
+      "elo": 2111.9
     },
     {
       "id": 764,
@@ -446,10 +446,10 @@
     "765": 1991.1,
     "766": 1878.1,
     "769": 1978.0,
-    "770": 2075.6,
+    "770": 2121.9,
     "771": 1817.2,
     "772": 1696.6,
-    "773": 2158.2,
+    "773": 2111.9,
     "774": 1581.2,
     "778": 1769.0,
     "779": 1801.5,
@@ -548,6 +548,7 @@
     537386,
     537387,
     537388,
+    537389,
     537391,
     537392,
     537393,
@@ -589,5 +590,25 @@
     537429,
     537430
   ],
-  "recentUpdates": []
+  "recentUpdates": [
+    {
+      "matchId": 537389,
+      "utcDate": "2026-07-18T21:00:00Z",
+      "stage": "THIRD_PLACE",
+      "home": {
+        "id": 773,
+        "tla": "FRA",
+        "before": 2158.2,
+        "delta": -46.3
+      },
+      "away": {
+        "id": 770,
+        "tla": "ENG",
+        "before": 2075.6,
+        "delta": 46.3
+      },
+      "score": "4-6",
+      "duration": "REGULAR"
+    }
+  ]
 }
