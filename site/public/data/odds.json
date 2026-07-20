@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T19:13:54+00:00",
+  "generatedAt": "2026-07-20T03:52:58+00:00",
   "nSims": 10000,
   "seed": 26,
   "kBase": 50,
@@ -24,26 +24,12 @@
       "tla": "ESP",
       "crest": "https://crests.football-data.org/760.svg",
       "eloCode": "ES",
-      "elo": 2213.2,
+      "elo": 2238.1,
       "probR16": 1.0,
       "probQF": 1.0,
       "probSF": 1.0,
       "probFinal": 1.0,
-      "probChampion": 0.5471
-    },
-    {
-      "id": 762,
-      "name": "Argentina",
-      "shortName": "Argentina",
-      "tla": "ARG",
-      "crest": "https://crests.football-data.org/762.png",
-      "eloCode": "AR",
-      "elo": 2212.3,
-      "probR16": 1.0,
-      "probQF": 1.0,
-      "probSF": 1.0,
-      "probFinal": 1.0,
-      "probChampion": 0.4529
+      "probChampion": 1.0
     },
     {
       "id": 761,
@@ -197,6 +183,20 @@
       "probQF": 1.0,
       "probSF": 0.0,
       "probFinal": 0.0,
+      "probChampion": 0.0
+    },
+    {
+      "id": 762,
+      "name": "Argentina",
+      "shortName": "Argentina",
+      "tla": "ARG",
+      "crest": "https://crests.football-data.org/762.png",
+      "eloCode": "AR",
+      "elo": 2187.4,
+      "probR16": 1.0,
+      "probQF": 1.0,
+      "probSF": 1.0,
+      "probFinal": 1.0,
       "probChampion": 0.0
     },
     {
